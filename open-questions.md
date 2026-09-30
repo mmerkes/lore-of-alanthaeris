@@ -1,0 +1,56 @@
+# Open Questions
+
+[← Home](README.md)
+
+When a question is resolved, move the answer into the relevant page, log it in the [Decision Log](decisions.md), and delete it here.
+
+## The Church
+
+### The Twelve
+- [ ] Do the twelve houses have names? Does each house have a known specialty (for example, the house that tends the Door)?
+- [ ] Can a house die out or be replaced? Has it ever happened? (The brainstorm's "Schism of the Seventh Spellweaver" could be the story of a fallen house.)
+- [ ] How do the Twelve decide things: voting, consensus, or a rotating first seat?
+- [ ] Is the Book literally split into twelve parts, one per house?
+- [ ] The brainstorm had a candidate pool called "the Hundred-Forty-Four," which doesn't fit hereditary seats. Should it be repurposed (for cadet branches or retainer families) or dropped?
+
+### The High Priest
+- [ ] Is the High Priest's bloodline one of the Twelve, or separate? If separate, where does it come from (the messiah's line)?
+- [ ] Is the High Priest in on any secrets?
+
+### Wizards
+- [ ] What is their "special place"? Are the arcane houses the wizards' upper tier? Must other wizards be licensed? Is unlicensed casting heresy?
+
+### The Wardens
+- [ ] Final list and names of the branches. Is "Nexus" the Door branch? Is there a third branch for rites and purification?
+- [ ] Are there ranks within the Wardens?
+- [ ] Who can become a Warden: merit, any ring, cadet branches?
+- [ ] Are the enforcers clergy or armed laypeople?
+
+## Alantha
+- [ ] What is Alantha, really? Was she real before the founding, created by it, or a parasite feeding on the old gods?
+- [ ] Alignment in Shadowdark terms (probably Lawful?)
+- [ ] Can PC clerics worship her?
+- [ ] Are the "old gods" the core Shadowdark gods (Madeera, Gede, and others)?
+- [ ] Holy symbol. Loom imagery was de-emphasized, so what sky-themed symbol replaces it?
+- [ ] Which epithets, sayings, and rites from the brainstorm to keep
+
+## The Pilgrimage
+- [ ] What does the prophecy say? What or whom are pilgrims seeking?
+- [ ] Who selects pilgrims, and how? Is being chosen a public honor, secretly rigged?
+- [ ] How often do pilgrimages happen?
+- [ ] Is the Door one-way? Is it the only way down? Has anyone ever returned?
+- [ ] If no one returns, why doesn't anyone question it?
+- [ ] What do pilgrims believe the surface is like?
+- [ ] Is Mike's character clergy, or a layperson who was chosen?
+
+## The City
+- [ ] Names of the three rings (Dactyls were simplified; use plain names?)
+- [ ] Who lives in the Middle and Outer rings?
+- [ ] Architectural style (collect reference images)
+- [ ] Does church rank map to the rings? Can people from the Rookery or the Great Works join the clergy?
+- [ ] Can dwarves and goblins join the faith?
+- [ ] Current year, and the calendar (brainstorm used "A.E.," Ascension Era)
+- [ ] What keeps the surface from striking back at the city?
+
+## Worldbuilding
+- [ ] Naming palette. Alanthaeris is Greek/Latin-flavored; should other names follow that style? (Elvish was also floated.)

@@ -1,0 +1,26 @@
+# Decision Log
+
+[← Home](README.md)
+
+Newest first.
+
+## 2026-09-29
+- **High Priest/Priestess** is a hereditary, largely ceremonial office, like the emperors of Japan, and is controlled by the Twelve.
+- **The Twelve** are the twelve most powerful families, with hereditary seats descended (as far as anyone knows) from the original twelve founders.
+- All twelve houses are considered priestly, and they keep a strict **half-arcane, half-divine** split.
+- Each house guards its own secrets for keeping the city running, which makes the houses hard to replace.
+- **Wizards** are part of the church and hold a special place in it (details open).
+- The player summary will cover only what Mike's pilgrim character knows. Secrets stay GM-only.
+
+## 2026-09-14
+- The city is named **Alanthaeris**.
+- The formal title is **High Priest**, with nicknames like the Apex. They live in the High Temple of Alantha.
+- The ruling council is the **Keepers of the Book**, colloquially **the Twelve**. The Book is a giant maintenance manual for the city.
+- Lower clergy are unified as **Wardens** with branches, such as the Wardens of the Nexus and the Wardens of the Measure.
+- **The Underspire** is everything below the city. **The Great Works** is the dwarven core. **The Rookery** is the outer slum for the poor, goblins, and criminals.
+- Mike handed off the religion doc; he's not attached to any of it.
+
+## 2026-09-12
+- The city is a floating island with most of its mass as rock below. On top is a three-ring hill town, grander toward the center (reference: Avalir, with less mountain on top).
+- Pilgrims are sent to find a prophesied someone or something and are not to return until they do. Evangelizing happens along the way.
+- 🔒 The Twelve secretly want to find and kill the prophesied figure. Only the Twelve know this.
