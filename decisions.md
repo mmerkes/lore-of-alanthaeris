@@ -4,6 +4,10 @@
 
 Newest first.
 
+## 2026-09-29 (clergy)
+- **Clergy** includes both priests and wizards. **Wardens** can be either.
+- Wizards in the clergy aren't necessarily very religious, and that's accepted.
+
 ## 2026-09-29 (pilgrimage mission)
 - The pilgrims' mission is to **find the lost book of Alantha** (name TBD; *the Fallen Feather* proposed). This replaces the vaguer "prophesied someone or something."
 - The public knows only that it contains lost knowledge of Alantha.

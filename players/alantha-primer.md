@@ -13,7 +13,7 @@ Beneath the city lies **the Underspire**. At its core are **the Great Works**, w
 - **The High Priest or Priestess** belongs to a sacred bloodline. They preside over the great rites and embody the faith. Among their many honorifics is *the Apex*.
 - **The Twelve**, formally the *Keepers of the Book*, are the twelve great houses. Each descends from one of the founders who raised the city. Six houses are arcane and six are divine, and together they govern both the faith and the city.
 - **The Wardens** are the working clergy, and their orders keep the city running. The *Wardens of the Nexus* tend the Door. The *Wardens of the Measure* keep order and orthodoxy.
-- **Wizards** hold a special, honored place within the faith.
+- **Clergy means priests and wizards alike.** Wizards serve the church at every rank and hold a special place in it. Everyone knows that some are more pious than others.
 
 ## What Alanthans Believe
 
