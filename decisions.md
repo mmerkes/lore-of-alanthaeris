@@ -7,6 +7,7 @@ Newest first.
 ## 2026-09-29 (High Priestess)
 - The current head of the faith is **High Priestess Aithra Ourania**. (*Hypsele* was proposed and rejected.)
 - The **Ourania** line is separate from the Twelve, but heavily intermarried with them.
+- (2026-09-30) Aithra is **Eudora Vassara's niece**, and she's close to Eudora and Lexandros. She believes the Twelve have drifted and their weight is dragging the city down. She personally asks Lexandros to descend, bring lightness to the Flightless, and find the lost book. See [scene](gm/scenes/aithra-commission.md).
 
 ## 2026-09-29 (confession)
 - **Confession** is the term for shedding weight. The proposed term *molting* was rejected.

@@ -32,6 +32,10 @@ High Priest/Priestess  ── ceremonial head (hereditary)
 
 ✅ The Ourania line is **separate from the Twelve**, but centuries of marriages have given it **plenty of Twelve blood**.
 
+✅ Aithra is the niece of **Eudora Vassara**: one of Aithra's parents was a Vassara. She's close to Eudora and to Eudora's grandson, **Lexandros Evgenios**.
+
+✅ In private, Aithra believes **the Twelve have drifted from Alantha's teachings**, and that the weight of their ways is dragging the city down.
+
 ❓ Where does the Ourania line come from originally?
 
 ❓ What's she like: content as a figurehead, restless, or quietly pious in a way the Twelve can't control?

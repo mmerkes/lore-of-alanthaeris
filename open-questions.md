@@ -18,7 +18,8 @@ When a question is resolved, move the answer into the relevant page, log it in t
 ### The High Priest
 - [ ] Where does the Ourania line come from originally (the founding prophet's line)?
 - [ ] Is Aithra in on any secrets?
-- [ ] What's Aithra like: content as a figurehead, restless, or quietly pious in a way the Twelve can't control?
+- [ ] 🔒 Does Aithra want the lost book to *reform* the Twelve, or to *replace* them? How much does Eudora know?
+- [ ] Is the city literally getting heavier or sinking? Does House Kallergis know?
 - [ ] Which houses has the Ourania line married into most recently?
 
 ### The Wardens
