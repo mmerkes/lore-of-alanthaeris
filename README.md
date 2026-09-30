@@ -8,8 +8,9 @@ Campaign lore for a Shadowdark campaign centered on **Alanthaeris**, a floating 
   - ✅ **Decided**: canon.
   - 🟡 **Leaning**: likely, but not locked.
   - ❓ **Open**: an idea under consideration. See [Open Questions](open-questions.md).
-- **Player-safe vs. GM-only:** everything outside `gm/` is safe to share with players. Secrets live only in [`gm/`](gm/).
-- **Source material** in [`sources/`](sources/) is raw inspiration and is **not canon** unless a page here adopts it.
+- **Player-safe vs. GM-only:** the pages in `world/` and `faith/` are safe to share with players. Secrets live in [`gm/`](gm/).
+- **Source material** in [`sources/`](sources/) is raw inspiration and is **not canon** unless a page here adopts it. 🔒 It contains spoilers, so don't share it with players.
+- The **tracking** pages (open questions, decision log) also contain spoilers. 🔒
 
 ## Contents
 
