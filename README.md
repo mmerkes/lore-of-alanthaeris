@@ -26,6 +26,9 @@ Campaign lore for a Shadowdark campaign centered on **Alanthaeris**, a floating 
 - [Open Questions](open-questions.md): what still needs deciding
 - [Decision Log](decisions.md): what was decided, and when
 
+### For Players
+- [Alantha Primer](players/alantha-primer.md): the player-facing summary
+
 ### GM Only 🔒
 - [Secrets](gm/secrets.md)
 
