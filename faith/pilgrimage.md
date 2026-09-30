@@ -32,4 +32,4 @@ Alternatives:
 
 ## Player Characters
 
-At least one PC (Mike's character) is a pilgrim. See the [player primer](../players/alantha-primer.md).
+At least one PC is a pilgrim: **Lexandros Evgenios** (Mike), an ordained priest from a junior branch of House Evgenios (see [The Twelve Houses](twelve-houses.md#lexandros)). See the [player primer](../players/alantha-primer.md).

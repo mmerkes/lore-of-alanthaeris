@@ -4,6 +4,11 @@
 
 Newest first.
 
+## 2026-09-29 (the Twelve houses)
+- Adopted Mike's **twelve houses**, their current Keepers, and their traditional spheres (see [The Twelve Houses](faith/twelve-houses.md)).
+- Adopted Mike's **House Evgenios** family and marriages, and the surname customs.
+- Mike's PC is **Lexandros Evgenios**, an ordained priest from a junior branch of House Evgenios, and a pilgrim.
+
 ## 2026-09-29 (clergy)
 - Arcane casters are simply **part of the clergy**, and they aren't called out as a separate category. (This replaces the earlier "wizards hold a special place" note.)
 - Some **Warden branches** mix arcane and divine members; others are homogeneous.

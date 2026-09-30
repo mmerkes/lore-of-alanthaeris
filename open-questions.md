@@ -7,7 +7,10 @@ When a question is resolved, move the answer into the relevant page, log it in t
 ## The Church
 
 ### The Twelve
-- [ ] Do the twelve houses have names? Does each house have a known specialty (for example, the house that tends the Door)?
+- [ ] How do House Evgenios (Door) and House Kyrillos (pilgrimage) split responsibility for the Descent? Where do the Wardens of the Nexus fit?
+- [ ] Who chooses a Keeper's successor?
+- [ ] Rename House Galenos's "confession" sphere to fit the faith's vocabulary (molting)?
+- [ ] Does House Kallergis (city's flight) hold the most critical piece of the Book?
 - [ ] Can a house die out or be replaced? Has it ever happened? (The brainstorm's "Schism of the Seventh Spellweaver" could be the story of a fallen house.)
 - [ ] How do the Twelve decide things: voting, consensus, or a rotating first seat?
 - [ ] Is the Book literally split into twelve parts, one per house?
@@ -47,7 +50,6 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] Is the Door one-way? Is it the only way down? Has anyone ever returned?
 - [ ] If no one returns, why doesn't anyone question it?
 - [ ] What do pilgrims believe the surface is like?
-- [ ] Is Mike's character clergy, or a layperson who was chosen?
 
 ## The City
 - [ ] Names of the three rings (Dactyls were simplified; use plain names?)
@@ -59,4 +61,4 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] What keeps the surface from striking back at the city?
 
 ## Worldbuilding
-- [ ] Naming palette. Alanthaeris is Greek/Latin-flavored; should other names follow that style? (Elvish was also floated.)
+- [ ] Naming palette: the houses established a strong **Greek** flavor. Adopt that as the rule for Alanthan names?

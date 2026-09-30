@@ -26,6 +26,10 @@
 
 ✅ The Book the Twelve keep is essentially a **giant maintenance manual for the city**. Each house guards its own part of how the city stays aloft and running.
 
+## Lexandros's Selection
+
+❓ Both the divine and arcane Keepers supported sending Lexandros Evgenios. Was it an honor, a political compromise, or cover for a hidden purpose? Consider: which lost-book faction benefits from an Evgenios pilgrim? Is he a junior scion nobody will miss?
+
 ## The Doctrine Was Designed
 
 ✅ The faith's beauty is sincere, but it was **crafted to build loyalty to the Twelve**. Its imagery and sayings are shaped so that devotion to Alantha and obedience to the ruling houses feel like the same thing. The clearest examples are the twelve feathers ("pluck one feather and the wing fails") and "every feather in its place."

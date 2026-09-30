@@ -38,8 +38,9 @@ High Priest/Priestess  ── ceremonial head (hereditary)
 
 🟡 Leaning: the **Book** is split into twelve parts, and each house holds one. The complete Book exists only when all twelve cooperate.
 
+✅ House names, Keepers, and spheres are on [The Twelve Houses](twelve-houses.md).
+
 ❓ Open:
-- House names, and each house's known specialty
 - How the Twelve reach decisions
 - Whether a house has ever fallen or been replaced
 
