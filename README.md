@@ -33,6 +33,7 @@ Campaign lore for a Shadowdark campaign centered on **Alanthaeris**, a floating 
 
 ### GM Only 🔒
 - [Secrets](gm/secrets.md)
+- [Scene: Aithra's Commission](gm/scenes/aithra-commission.md): the High Priestess asks Lexandros to descend
 
 ### Sources
 - [Mike's Brainstorm](sources/mike-brainstorm.md): the original Alantha religion brainstorm
