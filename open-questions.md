@@ -9,7 +9,6 @@ When a question is resolved, move the answer into the relevant page, log it in t
 ### The Twelve
 - [ ] How do House Evgenios (Door) and House Kyrillos (pilgrimage) split responsibility for the Descent? Where do the Wardens of the Nexus fit?
 - [ ] Who chooses a Keeper's successor?
-- [ ] Rename House Galenos's "confession" sphere to fit the faith's vocabulary (molting)?
 - [ ] Does House Kallergis (city's flight) hold the most critical piece of the Book?
 - [ ] Can a house die out or be replaced? Has it ever happened? (The brainstorm's "Schism of the Seventh Spellweaver" could be the story of a fallen house.)
 - [ ] How do the Twelve decide things: voting, consensus, or a rotating first seat?
@@ -17,8 +16,10 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] The brainstorm had a candidate pool called "the Hundred-Forty-Four," which doesn't fit hereditary seats. Should it be repurposed (for cadet branches or retainer families) or dropped?
 
 ### The High Priest
-- [ ] Is the High Priest's bloodline one of the Twelve, or separate? If separate, where does it come from (the messiah's line)?
-- [ ] Is the High Priest in on any secrets?
+- [ ] Where does the Ourania line come from originally (the founding prophet's line)?
+- [ ] Is Aithra in on any secrets?
+- [ ] What's Aithra like: content as a figurehead, restless, or quietly pious in a way the Twelve can't control?
+- [ ] Which houses has the Ourania line married into most recently?
 
 ### The Wardens
 - [ ] Which branches are mixed, and which are homogeneous (and in which tradition)?

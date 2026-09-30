@@ -4,6 +4,13 @@
 
 Newest first.
 
+## 2026-09-29 (High Priestess)
+- The current head of the faith is **High Priestess Aithra Ourania**. (*Hypsele* was proposed and rejected.)
+- The **Ourania** line is separate from the Twelve, but heavily intermarried with them.
+
+## 2026-09-29 (confession)
+- **Confession** is the term for shedding weight. The proposed term *molting* was rejected.
+
 ## 2026-09-29 (the Twelve houses)
 - Adopted Mike's **twelve houses**, their current Keepers, and their traditional spheres (see [The Twelve Houses](faith/twelve-houses.md)).
 - Adopted Mike's **House Evgenios** family and marriages, and the surname customs.

@@ -24,7 +24,17 @@ High Priest/Priestess  ── ceremonial head (hereditary)
 
 🟡 Nicknames include **the Apex** and others.
 
-❓ Is the High Priest's line one of the Twelve, or separate? If separate, where does it come from?
+### The Current High Priestess
+
+✅ **Aithra Ourania**
+- *Aithra* comes from the Greek *aithēr*, the bright upper sky.
+- *Ourania* means "heavenly." It's the name of the sacred line: **House Ourania**.
+
+✅ The Ourania line is **separate from the Twelve**, but centuries of marriages have given it **plenty of Twelve blood**.
+
+❓ Where does the Ourania line come from originally?
+
+❓ What's she like: content as a figurehead, restless, or quietly pious in a way the Twelve can't control?
 
 ## The Twelve (Keepers of the Book)
 

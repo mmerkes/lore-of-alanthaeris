@@ -10,13 +10,13 @@ Beneath the city lies **the Underspire**. At its core are **the Great Works**, w
 
 ## Who Rules
 
-- **The High Priest or Priestess** belongs to a sacred bloodline. They preside over the great rites and embody the faith. Among their many honorifics is *the Apex*.
+- **The High Priest or Priestess** belongs to a sacred bloodline. They preside over the great rites and embody the faith. Among their many honorifics is *the Apex*. The current holder is **High Priestess Aithra Ourania**. Her line stands apart from the Twelve, though it has married into many of the houses.
 - **The Twelve**, formally the *Keepers of the Book*, are the twelve great houses. Each descends from one of the founders who raised the city. Six houses are arcane and six are divine, and together they govern both the faith and the city.
 - **The Wardens** are the working clergy, and their orders keep the city running. The *Wardens of the Nexus* tend the Door. The *Wardens of the Measure* keep order and orthodoxy.
 ## What Alanthans Believe
 
 - **We are chosen.** Alantha lifted us above the world. The people below are **the Flightless**, and they are more to be pitied than hated.
-- **Lightness is holy; weight drags you down.** Greed, fear, disorder and stepping out of your place all add weight. The faithful shed it through discipline, duty and ritual, which is called **molting**.
+- **Lightness is holy; weight drags you down.** Greed, fear, disorder and stepping out of your place all add weight. The faithful shed it through **confession**, discipline, duty and ritual.
 - **Every feather in its place.** The city stays aloft because everyone keeps to their role, and because the Twelve hold it up.
 - **When the faithful die, they take wing** and join the High Air, the winds that circle forever above the city.
 

@@ -28,9 +28,7 @@ Each house holds one seat among the Twelve. The current holder of that seat is i
 | **Eleimon** | Agatheia Eleimon | Charity, public welfare, hospitality, and care of the poor |
 | **Kyrillos** | Matthaios Kyrillos | Liturgy, missionary work, **pilgrimage, and the Divine Descent** |
 | **Philanthes** | Theodora Philanthes | Marriage, kinship, childbirth, and obligations between households |
-| **Galenos** | Stephanos Galenos | Funerary rites, spiritual healing, confession*, and care of the dying |
-
-\* ❓ "Confession" reads as Christian. Under the faith's vocabulary this would be **molting**, the shedding of weight (see [Alantha](alantha.md)).
+| **Galenos** | Stephanos Galenos | Funerary rites, spiritual healing, confession, and care of the dying |
 
 ## Customs
 

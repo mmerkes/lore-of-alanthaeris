@@ -13,7 +13,7 @@
 - ✅ The people of Alanthaeris are **chosen**. Alantha lifted them above the world, and that makes them **superior** to those below.
 - ✅ The surface world is **unfortunate**. Surface people are pitied rather than hated. They are the **Flightless**: poor souls who were never lifted.
 - 🟡 Alantha holds the city up on her wings, and the **Twelve are the feathers of those wings** (see below). Faith keeps the city aloft, and so does order.
-- ✅ **Holiness is lightness; wrongdoing is weight.** 🟡 This isn't a sin-and-guilt system. Weight is a kind of *drag* that builds up from greed, fear, disorder, clinging to earthly things, and stepping out of your place. A heavy soul is hard for Alantha to carry. The fix isn't forgiveness but **shedding** the weight, through discipline, duty and ritual.
+- ✅ **Holiness is lightness; wrongdoing is weight.** 🟡 This isn't a sin-and-guilt system. Weight is a kind of *drag* that builds up from greed, fear, disorder, clinging to earthly things, and stepping out of your place. A heavy soul is hard for Alantha to carry. The fix isn't forgiveness but **shedding** the weight, through **confession**, discipline, duty and ritual.
 - 🟡 When the faithful die, they **take wing** and join the High Air, the winds that circle forever above the city. Heavy souls sink toward the Dust.
 - 🟡 Being chosen brings an obligation: to carry the faith to the Flightless (see [The Pilgrimage](pilgrimage.md)).
 
@@ -48,7 +48,7 @@ This vocabulary runs through everyday speech. 🟡 (Everything in this section i
 | Coming of age | *Fledging* |
 | Virtue | lightness, "going lightly" |
 | Wrongdoing | *weight*, *drag*. A person carrying it is "heavy." |
-| Penance, purification | *molting*: a ritual shedding of weight, like a bird shedding old feathers |
+| Penance, purification | ✅ *confession*: speaking your weight aloud so it can be shed |
 | Dissenters | *the clipped* |
 | Casting someone out | *grounding* |
 | Knowing your station | "every feather in its place" |
