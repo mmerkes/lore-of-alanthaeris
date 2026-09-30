@@ -4,6 +4,9 @@
 
 Newest first.
 
+## 2026-09-30 (greeting)
+- The standard greeting is **"The sky keeps you."** The reply is **"And you."** (*"Under Her wings"* was rejected.)
+
 ## 2026-09-29 (High Priestess)
 - The current head of the faith is **High Priestess Aithra Ourania**. (*Hypsele* was proposed and rejected.)
 - The **Ourania** line is separate from the Twelve, but heavily intermarried with them.

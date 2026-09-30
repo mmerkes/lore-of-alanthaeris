@@ -24,7 +24,7 @@
 
 ## Speech Draft
 
-> *(Taking Eudora's hands.)* Aunt Eudora. Under Her wings.
+> *(Taking Eudora's hands.)* Aunt Eudora. The sky keeps you.
 >
 > *(To Lexandros, smiling.)* And you, still taller every time I see you. Sit, both of you. There's no one here to perform for.
 >
