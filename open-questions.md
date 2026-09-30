@@ -31,8 +31,11 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] Alignment in Shadowdark terms (probably Lawful?)
 - [ ] Can PC clerics worship her?
 - [ ] Are the "old gods" the core Shadowdark gods (Madeera, Gede, and others)?
-- [ ] Holy symbol. Loom imagery was de-emphasized, so what sky-themed symbol replaces it?
-- [ ] Which epithets, sayings, and rites from the brainstorm to keep
+- [ ] Confirm or revise the proposed (🟡) items on the [Alantha page](faith/alantha.md): the White Swift, the twelve-feather symbol, titles, wing vocabulary, sayings, look and feel
+- [ ] Is the White Swift a real bird people can see around the city, or purely mythic?
+- [ ] Which rites from the brainstorm to keep, and how to rename them in wing terms (First Breath, Trial of the Abyss → Fledging?, ordination, funerals)
+- [ ] Rename Christian-sounding terms carried over from the brainstorm: "messiah" (e.g. *the Herald*, *the First Wing*), "second coming" (e.g. *the Second Flight*, *the Returning Wing*), "saints," "scripture"
+- [ ] 🔒 Who designed the loyalty-building doctrine, and do the Twelve still believe it?
 
 ## The Pilgrimage
 - [ ] What does the prophecy say? What or whom are pilgrims seeking?

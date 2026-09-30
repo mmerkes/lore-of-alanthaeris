@@ -4,7 +4,14 @@
 
 Newest first.
 
-## 2026-09-29
+## 2026-09-29 (faith imagery)
+- **Tone:** beautiful, but crafted to build loyalty to the Twelve.
+- **The surface** is viewed as *unfortunate*. Alanthans see themselves as **chosen and superior**.
+- **Lightness is holiness; weight is wrongdoing.** Avoid overtly Christian theology (undertones are OK). Weight is shed through discipline and ritual, not forgiven.
+- **The holy symbol** involves **wings or a special bird**, and greetings and sayings allude to Alantha's wings.
+- Proposed, pending confirmation: the White Swift, the twelve-feather symbol, and the wing vocabulary (see [Alantha](faith/alantha.md)).
+
+## 2026-09-29 (hierarchy)
 - **High Priest/Priestess** is a hereditary, largely ceremonial office, like the emperors of Japan, and is controlled by the Twelve.
 - **The Twelve** are the twelve most powerful families, with hereditary seats descended (as far as anyone knows) from the original twelve founders.
 - All twelve houses are considered priestly, and they keep a strict **half-arcane, half-divine** split.
