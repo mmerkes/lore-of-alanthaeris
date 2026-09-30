@@ -4,6 +4,11 @@
 
 Newest first.
 
+## 2026-09-29 (pilgrimage mission)
+- The pilgrims' mission is to **find the lost book of Alantha** (name TBD; *the Fallen Feather* proposed). This replaces the vaguer "prophesied someone or something."
+- The public knows only that it contains lost knowledge of Alantha.
+- 🔒 The Twelve hold two prevailing theories: (1) it's a maintenance manual that fixes shortcomings in the current Book; (2) it's a truly holy text that brings enlightenment and closeness to Alantha.
+
 ## 2026-09-29 (faith imagery)
 - **Tone:** beautiful, but crafted to build loyalty to the Twelve.
 - **The surface** is viewed as *unfortunate*. Alanthans see themselves as **chosen and superior**.

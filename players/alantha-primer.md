@@ -44,4 +44,4 @@ The faith's colors are white, sky blue and silver. Its temples are open to the s
 
 ## The Descent
 
-Pilgrims are chosen and sent down through **the Door** to the surface. Their holy task is to **find what the prophecy foretells**, and they may **not return until they find it**. Along the way, they carry Alantha's light to the Flightless.
+Pilgrims are chosen and sent down through **the Door** to the surface. Their holy task is to recover **the lost book of Alantha**, which holds knowledge of the All-Mother that the city has lost. They may **not return until they find it**. Along the way, they carry Alantha's light to the Flightless.

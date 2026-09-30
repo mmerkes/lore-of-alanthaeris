@@ -4,14 +4,23 @@
 
 **Do not share with players.**
 
-## The True Purpose of the Pilgrimage
+## What the Twelve Believe About the Lost Book
 
-✅ The pilgrimage has two purposes that the Twelve don't speak of:
+✅ The pilgrims' mission is to recover the **lost book of Alantha** (see [The Pilgrimage](../faith/pilgrimage.md)). The public knows only that it holds lost knowledge of Alantha. Among the Twelve, **two theories** prevail:
 
-1. **Finding and killing the prophesied figure.** The Twelve fear that this person will gain momentum and threaten their order, possibly by reuniting the city with the surface. They want the figure found and eliminated early. **Only the Twelve know this.**
-2. **Getting rid of undesirables.** The pilgrimage is a convenient way to remove troublemakers.
+1. **It's a maintenance manual.** The lost book is the missing piece of the Book, and it would fix the shortcomings and gaps in the current one. This is the practical view: the city has problems, and the book has the fixes.
+2. **It's a truly holy text.** The lost book would bring its readers closer to Alantha, answer questions the faith can't, and solve the city's problems through enlightenment.
 
-⚠️ The pilgrims themselves do **not** know about either purpose.
+🟡 Proposed: these theories line up with **factions among the houses**, which gives the Twelve an internal politics. Also proposed: whichever house recovers the book gains enormous leverage. A "thirteenth feather" could upset the balance of twelve, so some houses may want it found by *their* pilgrims, or not found at all.
+
+❓ What is the lost book *really*? Is it one of the two theories, both, or neither?
+
+## Other Hidden Purposes of the Pilgrimage
+
+- ✅ **Getting rid of undesirables.** The pilgrimage is a convenient way to remove troublemakers.
+- ❓ *Superseded?* Earlier idea: the Twelve secretly want to find and kill a prophesied figure. The mission is now the lost book, so should this be dropped, or folded in (for example, a figure tied to the book)?
+
+⚠️ The pilgrims themselves do **not** know about any of this.
 
 ## The Book
 

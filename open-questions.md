@@ -38,7 +38,12 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] 🔒 Who designed the loyalty-building doctrine, and do the Twelve still believe it?
 
 ## The Pilgrimage
-- [ ] What does the prophecy say? What or whom are pilgrims seeking?
+- [ ] Name of the lost book: *the Fallen Feather* (proposed), *the Thirteenth Feather*, *the Quill of Alantha*, or something else?
+- [ ] How and when was the book lost? Why is it believed to be on the surface?
+- [ ] 🔒 What is the lost book *really*? Which theory is right: the manual, the holy text, both, or neither?
+- [ ] 🔒 Do the two theories split the Twelve into factions? Do some houses want the book *not* found?
+- [ ] 🔒 Is the "find and kill the prophesied figure" secret dropped, or folded into the book mission?
+- [ ] What clues or scripture do pilgrims carry about where the book might be?
 - [ ] Who selects pilgrims, and how? Is being chosen a public honor, secretly rigged?
 - [ ] How often do pilgrimages happen?
 - [ ] Is the Door one-way? Is it the only way down? Has anyone ever returned?
