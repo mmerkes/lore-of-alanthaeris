@@ -17,11 +17,8 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] Is the High Priest's bloodline one of the Twelve, or separate? If separate, where does it come from (the messiah's line)?
 - [ ] Is the High Priest in on any secrets?
 
-### Wizards
-- [ ] What is their "special place"? Must wizards outside the church be licensed? Is unlicensed casting heresy?
-- [ ] Do Warden branches mix priests and wizards, or lean toward one tradition?
-
 ### The Wardens
+- [ ] Which branches are mixed, and which are homogeneous (and in which tradition)?
 - [ ] Final list and names of the branches. Is "Nexus" the Door branch? Is there a third branch for rites and purification?
 - [ ] Are there ranks within the Wardens?
 - [ ] Who can become a Warden: merit, any ring, cadet branches?

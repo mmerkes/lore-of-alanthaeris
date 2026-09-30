@@ -43,21 +43,11 @@ High Priest/Priestess  ── ceremonial head (hereditary)
 - How the Twelve reach decisions
 - Whether a house has ever fallen or been replaced
 
-## Clergy: Priests and Wizards
-
-✅ In Alanthaeris, **"clergy" means both priests and wizards.** Both serve the church at every level, from the Twelve down to the Wardens.
-
-✅ A wizard in the clergy **isn't necessarily very religious**. They serve the church and hold its rank, but their devotion may be professional rather than personal. That's normal, and it's accepted.
-
-✅ Wizards hold a **special place** within the church.
-
-❓ What that special place means is still open. Must wizards outside the church be licensed? Is unlicensed spellcasting heresy?
-
 ## The Wardens
 
-✅ The Wardens are the **lower order of clergy**, made up of both **priests and wizards**. They do the helpful (and annoying) jobs around the city, and they're organized into branches named "Wardens of the ___."
+✅ The Wardens are the **lower order of clergy**. They do the helpful (and annoying) jobs around the city, and they're organized into branches named "Wardens of the ___."
 
-❓ Is each branch a mix of priests and wizards, or do some branches lean toward one tradition?
+✅ Some branches mix arcane and divine members, and some are made up of only one tradition.
 
 | Branch | Role | Status |
 |---|---|---|

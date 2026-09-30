@@ -5,8 +5,8 @@
 Newest first.
 
 ## 2026-09-29 (clergy)
-- **Clergy** includes both priests and wizards. **Wardens** can be either.
-- Wizards in the clergy aren't necessarily very religious, and that's accepted.
+- Arcane casters are simply **part of the clergy**, and they aren't called out as a separate category. (This replaces the earlier "wizards hold a special place" note.)
+- Some **Warden branches** mix arcane and divine members; others are homogeneous.
 
 ## 2026-09-29 (pilgrimage mission)
 - The pilgrims' mission is to **find the lost book of Alantha** (name TBD; *the Fallen Feather* proposed). This replaces the vaguer "prophesied someone or something."
@@ -25,7 +25,7 @@ Newest first.
 - **The Twelve** are the twelve most powerful families, with hereditary seats descended (as far as anyone knows) from the original twelve founders.
 - All twelve houses are considered priestly, and they keep a strict **half-arcane, half-divine** split.
 - Each house guards its own secrets for keeping the city running, which makes the houses hard to replace.
-- **Wizards** are part of the church and hold a special place in it (details open).
+- ~~**Wizards** are part of the church and hold a special place in it.~~ *Superseded; see (clergy) above.*
 - The player summary will cover only what Mike's pilgrim character knows. Secrets stay GM-only.
 
 ## 2026-09-14
