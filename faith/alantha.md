@@ -60,7 +60,7 @@ This vocabulary runs through everyday speech. 🟡 (Everything in this section i
 
 🟡 Proposed:
 
-- ✅ **"The sky keeps you."** A greeting. The reply is ***"And you."***
+- ✅ **"May the sky keep you."** A greeting. The reply is ***"And you."***
 - **"Fly true."** A farewell.
 - **"Go lightly."** A blessing, or a gentle warning not to sin.
 - **"May She hold us high."** A prayer said during turbulence or fear.

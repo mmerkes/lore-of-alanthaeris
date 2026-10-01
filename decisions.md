@@ -19,7 +19,7 @@ Newest first.
 - The lost book is named **the Lost Book of Alantha**. (*The Fallen Feather* and other proposals were dropped.)
 
 ## 2026-09-30 (greeting)
-- The standard greeting is **"The sky keeps you."** The reply is **"And you."** (*"Under Her wings"* was rejected.)
+- The standard greeting is **"May the sky keep you."** The reply is **"And you."** (*"Under Her wings"* and *"The sky keeps you"* were rejected.)
 
 ## 2026-09-29 (High Priestess)
 - The current head of the faith is **High Priestess Aithra Ourania**. (*Hypsele* was proposed and rejected.)

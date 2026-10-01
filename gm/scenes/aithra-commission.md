@@ -2,51 +2,49 @@
 
 [← Home](../../README.md)
 
-**Setting:** A private audience in the High Temple. Present are High Priestess **Aithra Ourania**, **Eudora Vassara** (Aithra's aunt), and **Lexandros Evgenios** (Eudora's grandson). No Keepers and no attendants.
+**Setting:** A private audience in the High Temple, open to the sky. Present are High Priestess **Aithra Ourania**, **Eudora Vassara** (Aithra's aunt), and **Lexandros Evgenios** (Eudora's grandson). No Keepers and no attendants.
 
-**Relationships:** Eudora is Aithra's aunt, so Aithra's mother or father was a Vassara. That makes Lexandros Aithra's first cousin once removed. The three are close. In private, Aithra drops the ceremony.
+**Relationships:** Eudora is Aithra's aunt, so Aithra's mother or father was a Vassara. That makes Lexandros Aithra's first cousin once removed. The three are close, and in private Aithra speaks as family.
 
-**Aithra's goal:** to ask Lexandros to descend, bring lightness to the Flightless, and find the lost book of Alantha. She wants him to do it *for Alantha and the city*, not for the Twelve.
+**Aithra's goal:** to ask Lexandros to descend, bring lightness to the Flightless, and find the Lost Book of Alantha. She wants him to go *for Alantha*, to bring the city back to her, not to serve the Twelve.
 
 ---
 
 ## Talking Points
 
-1. **Warmth first.** She greets Eudora as family, not as a priestess. She teases Lexandros a little; she's known him since he was a fledgling.
-2. **Her burden.** The Apex is expected to smile and bless, and to say what the Twelve have already decided.
-3. **The Twelve have drifted.** They were meant to be the feathers of Alantha's wings. Now they guard their secrets, trade marriages like coin, and argue over whose feather is longest.
-4. **Weight is literal.** Their pride, hoarding and fear are *weight*. The whole city carries it, and she can feel it. Things are harder to hold up than they used to be.
-5. **Why Lexandros.** He's genuinely devout. His branch of the family has no office to protect and no alliance to serve. He is *light*.
-6. **The charge.** Descend. Carry lightness to the Flightless. Find the lost book, and bring it back so the city can become what Alantha meant it to be.
-7. **Keep it between us.** The Twelve will say what they say at the Descent. What she's asking comes from her, from Eudora, and from Alantha.
+1. **Warmth, then reverence.** She greets them as family, then turns to Alantha.
+2. **The old scripture.** The oldest verses of the Alanthiad, from before the rising, speak of a people who were *lifted because they were light*. They didn't earn it by rank or blood.
+3. **The Twelve have lost their way.** They were meant to be the feathers of Her wings, holding the city up together. Now they look to their own houses and their own pages of the Book, and not to Her.
+4. **The weight is spiritual, and real.** Their pride and fear are weight, and the whole city carries it. The city is drifting further from Alantha.
+5. **The answer is to draw closer to Alantha.** The answer isn't defiance or reform by force. The city needs to return to Her, and the Lost Book holds what was forgotten.
+6. **Why Lexandros.** His faith is genuine and he has no ambition. He is light, which makes him able to carry Her light down.
+7. **The charge.** Descend. Bring lightness to the Flightless. Find the Lost Book, and bring the city to the glory Alantha meant it to have.
 
 ---
 
 ## Speech Draft
 
-> *(Taking Eudora's hands.)* Aunt Eudora. The sky keeps you.
+> *(Taking Eudora's hands.)* Aunt Eudora. May the sky keep you.
 >
-> *(To Lexandros, smiling.)* And you, still taller every time I see you. Sit, both of you. There's no one here to perform for.
+> *(To Lexandros, smiling.)* And you, still taller every time I see you. Sit with me, both of you.
 >
-> Do you know what they want from me, Lexandros? To stand at the top of the city and look serene. To bless whatever the Twelve have already decided. I'm very good at it.
+> *(She looks up, through the open dome.)* Do you remember the oldest verses of the Alanthiad, Lexandros? The ones written before the rising? They don't speak of houses or seats. They speak of a people who were lifted *because they were light*. They didn't take it as a prize. She gave it to them as a gift.
 >
-> But I still read the old rites. Your grandmother made sure of that. And the Twelve were never meant to be *this*. They were meant to be the feathers of Her wings: twelve, holding the city up together. Now every house hoards its secrets. They trade their children in marriage like coin. They argue over whose feather is longest, and not one of them asks whether the wing still flies.
+> The Twelve were meant to be the feathers of Her wings, twelve holding the city up together, each in its place. I love them, and I pray for them. But they have lost their way. They look to their own houses and their own pages of the Book, and they no longer look up. Pride, fear, grasping: that is weight, and the whole city carries it. We are drifting from Her, Lexandros. I feel it in every rite I lead.
 >
-> That is weight. Pride, fear, grasping. It doesn't stay in their towers. It settles on all of us. I feel it in the temple stones. The city is heavier than it was when I was a girl.
+> We don't need to fight them. We need to *return* to Her. And somewhere below us is what we've forgotten.
 >
-> *(Beat.)* You're going to be chosen for the Descent. The Twelve will say it's an honor, and some of them will even mean it. But I'm asking you for something more.
+> *(Beat.)* You will be chosen for the Descent. I'm asking you to go not for the Twelve, and not for me, but for Her. Go down to the Flightless and bring them lightness. And find the Lost Book of Alantha. I believe it holds the way back to Her: the way to lift this city to the glory She always meant it to have.
 >
-> Go down to the Flightless and bring them lightness. Not our pride. Hers. And find the lost book of Alantha. Somewhere below us is what we've forgotten. I believe it's what will lift this city back to the glory She meant it to have.
+> Of everyone I know, your soul is the lightest. That's why it must be you.
 >
-> You're the lightest soul I know, Lexandros. You have nothing to protect and no one to please. That's exactly why it has to be you.
->
-> *(Softer.)* Fly true, cousin. And come home.
+> *(Softer.)* Fly true, cousin. She will hold you.
 
 ---
 
 ## GM Notes
 
-- **"Come home" is a loaded line.** Pilgrims aren't supposed to return until they find the book. She might know more about whether anyone ever has.
-- **Her motives are ambiguous.** She seems sincere, but she's also making a play against the Twelve through a pilgrim loyal to her. Does she want the book to *reform* the Twelve, or to *replace* them?
-- **How much does Eudora know?** Did she arrange this meeting? Does she know what Aithra really wants the book for?
-- **Is the city literally heavier?** If so, House Kallergis would know. That could tie into the maintenance-manual theory of the book.
+- **Aithra is sincere.** She genuinely believes the city needs to draw closer to Alantha. Whether her faith leads anywhere *safe* is another matter.
+- **The two parts of the Alanthiad.** She cites the *older* part, from before the rising and before the Twelve added the newer part. That's a subtle tell: she trusts the older scripture over the Twelve's additions.
+- **How much does Eudora know?** Did she arrange this meeting? Does she know what Aithra hopes the book will do?
+- **Is the city literally drifting or heavier?** If so, House Kallergis would know. That could tie into the theory that the book is a maintenance manual.

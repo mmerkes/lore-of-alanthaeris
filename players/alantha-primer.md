@@ -37,7 +37,7 @@ The faith's colors are white, sky blue and silver. Its temples are open to the s
 
 | Saying | Meaning |
 |---|---|
-| *"The sky keeps you."* / *"And you."* | Greeting and reply |
+| *"May the sky keep you."* / *"And you."* | Greeting and reply |
 | *"Fly true."* | Farewell |
 | *"Go lightly."* | Blessing, or a gentle warning |
 | *"May She hold us high."* | Said in fear or turbulence |
