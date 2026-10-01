@@ -2,7 +2,7 @@
 
 [← Home](../README.md) · [Church Hierarchy](hierarchy.md) · [Player version](../players/twelve-houses.md)
 
-✅ This page is adopted from Mike's character material (September 2026). It's the detailed reference for the twelve ruling families. What each house secretly knows about keeping the city aloft is in [GM Secrets](../gm/secrets.md).
+✅ This page is adopted from Mike's character material (September 2026). The names and spheres aren't set in stone; they stand unless something better comes along. It's the detailed reference for the twelve ruling families. What each house secretly knows about keeping the city aloft is in [GM Secrets](../gm/secrets.md).
 
 ## The Houses
 
@@ -15,7 +15,7 @@ Each house holds one seat among the Twelve. The current holder of that seat is i
 | **Evgenios** | Theophanes Evgenios | Civic enchantments, magical infrastructure, and the **Door of Alantha** |
 | **Drakaina** | Melanippe Drakaina | Wards, defensive magic, and the regulation of dangerous sorcery |
 | **Asterion** | Praxion Asterion | Medicine, alchemy, magical anatomy, and scholarly inquiry |
-| **Kallergis** | Theramenes Kallergis | Levitation, weather-working, and **maintenance of the city's flight** |
+| **Kallergis** | Theramenes Kallergis | Levitation, weather-working, and **maintenance of the city's flight**. Considered a **lesser house**. |
 | **Myriantos** | Sophia Myriantos | Divination, magical memory, censuses, and civic records |
 | **Pyrakles** | Leandros Pyrakles | Artifice, sacred metallurgy, elemental fire, and magical industry |
 
@@ -105,7 +105,8 @@ Within the family:
 ## Open Questions
 
 - ❓ How do House **Evgenios** (which stewards the Door) and House **Kyrillos** (pilgrimage and the Divine Descent) divide responsibility for the pilgrimage? How do both relate to the Wardens of the Nexus?
-- ❓ House **Kallergis** maintains the city's flight. Does it hold the most important section of the Book? Is it the most powerful house, or the most anxious one?
+- ✅ House **Kallergis** is a **lesser house** that has fallen on harder times. It has embarrassed itself, and some quietly blame it for the city's troubles. 🔒 See [Secrets](../gm/secrets.md#house-kallergiss-lost-knowledge).
+- ❓ How is Reeve (Reevanous Kallergis) related to Keeper Theramenes?
 - ❓ Which houses favor which theory about the [lost book](pilgrimage.md)?
 - ❓ Who chooses a Keeper's successor?
 - ❓ How does the High Priest's bloodline fit in? Is it one of these twelve, or separate?

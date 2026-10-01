@@ -4,6 +4,14 @@
 
 Newest first.
 
+## 2026-09-30 (Reeve / Kallergis)
+- 🔒 **The city is slowly sinking.** Not widely known. Some blame House Kallergis.
+- The city was raised by arcane and divine magic together. The dwarves maintain the non-magical machinery.
+- **House Kallergis** is a lesser house. 🔒 Its original line died off or was taken over suspiciously, and inherited knowledge was lost (gaps in the Kallergeia).
+- **Reeve (Reevanous) Kallergis** (Bill) is an aimless Inner Ring scion who descends as penance. His uncle went through the Door years ago.
+- The **Lost Book** hasn't been seen since the city was raised. The faithful think it will bring them closer to Alantha and save the city; cynics think it's an owner's manual.
+- The house names and spheres from Mike aren't set in stone.
+
 ## 2026-09-30 (sword instructor)
 - 🔒 **Ryland St Vere** (Elizabeth), a sword instructor, kills **Myrto**, a magically inept boy of House Evgenios and Lexandros's cousin, and Myrto's father, then flees through the Door in Session 1.
 

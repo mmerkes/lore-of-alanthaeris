@@ -9,7 +9,6 @@ When a question is resolved, move the answer into the relevant page, log it in t
 ### The Twelve
 - [ ] How do House Evgenios (Door) and House Kyrillos (pilgrimage) split responsibility for the Descent? Where do the Wardens of the Nexus fit?
 - [ ] Who chooses a Keeper's successor?
-- [ ] Does House Kallergis (city's flight) hold the most critical piece of the Book?
 - [ ] Can a house die out or be replaced? Has it ever happened? (The brainstorm's "Schism of the Seventh Spellweaver" could be the story of a fallen house.)
 - [ ] How do the Twelve decide things: voting, consensus, or a rotating first seat?
 - [ ] The brainstorm had a candidate pool called "the Hundred-Forty-Four," which doesn't fit hereditary seats. Should it be repurposed (for cadet branches or retainer families) or dropped?
@@ -18,7 +17,6 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] Where does the Ourania line come from originally (the founding prophet's line)?
 - [ ] Is Aithra in on any secrets?
 - [ ] 🔒 Does Aithra want the lost book to *reform* the Twelve, or to *replace* them? How much does Eudora know?
-- [ ] Is the city literally getting heavier or sinking? Does House Kallergis know?
 - [ ] Which houses has the Ourania line married into most recently?
 
 ### The Wardens
@@ -74,6 +72,10 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] Myrto's father: Leontes (heir, huge fallout) or Niketas (contained)?
 - [ ] Why does Ryland snap: rage, an accident, or something supernatural?
 - [ ] What ceremony did Myrto fail (🟡 the Fledging)?
+
+- [ ] Reeve: how is he related to Theramenes? What's his uncle's name (🟡 Demetrios) and fate?
+- [ ] 🔒 How did Reeve's branch take the Kallergis seat? What happened to the original line?
+- [ ] 🔒 Who knows the city is sinking: all the Twelve? Aithra? The Wardens?
 
 ## Worldbuilding
 - [ ] Naming palette: the houses established a strong **Greek** flavor. Adopt that as the rule for Alanthan names?

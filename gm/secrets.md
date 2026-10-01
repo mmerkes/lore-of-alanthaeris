@@ -4,12 +4,29 @@
 
 **Do not share with players.**
 
-## What the Twelve Believe About the Lost Book
+## The City Is Sinking
 
-✅ The pilgrims' mission is to recover the **lost book of Alantha** (see [The Pilgrimage](../faith/pilgrimage.md)). The public knows only that it holds lost knowledge of Alantha. Among the Twelve, **two theories** prevail:
+✅ **Alanthaeris is slowly sinking.** It isn't widely known. House Kallergis knows, and so presumably do the other houses of the Twelve. Some blame **House Kallergis**.
 
-1. **It's a maintenance manual.** The lost book is the missing piece of the Twelvefold Codex, and it would fix the shortcomings and gaps in the current one. This is the practical view: the city has problems, and the book has the fixes.
-2. **It's a truly holy text.** The lost book would bring its readers closer to Alantha, answer questions the faith can't, and solve the city's problems through enlightenment.
+✅ The city was raised by **arcane and divine magic working together**. The dwarves of the Great Works maintain the **non-magical** machinery.
+
+This is the literal truth behind Aithra's sense that the city is "drifting" and heavier, and possibly behind the Great Chain's troubles.
+
+## House Kallergis's Lost Knowledge
+
+✅ The original Kallergis line **died off, or was taken over under suspicious circumstances**. When the current branch took the seat, part of the house's inherited knowledge was lost, leaving **gaps in the Kallergeia**. The house is now considered **lesser** and has fallen on harder times.
+
+✅ One Kallergis went through the Door years ago to recover what was lost and never returned. He is Reeve's uncle. See [Reeve's vignettes](sessions/session-01/reeve.md).
+
+❓ What exactly happened to the original line? (The brainstorm's *Schism of the Seventh Spellweaver* is a candidate.)
+
+## What People Believe About the Lost Book
+
+
+✅ The pilgrims' mission is to recover the **lost book of Alantha** (see [The Pilgrimage](../faith/pilgrimage.md)). It **hasn't been seen since the city was raised**. The public knows only that it holds lost knowledge of Alantha. Two views prevail:
+
+1. **The cynics: it's an owner's manual.** The lost book is the missing piece of the Twelvefold Codex, and it would fix the shortcomings and gaps in the current one. This is the practical view: the city has problems, and the book has the fixes.
+2. **The faithful: it's a truly holy text.** The lost book would bring its readers closer to Alantha. By raising the people's faith, toward something like enlightenment, it would **save the city**.
 
 🟡 Proposed: these theories line up with **factions among the houses**, which gives the Twelve an internal politics. Also proposed: whichever house recovers the book gains enormous leverage. A "thirteenth feather" could upset the balance of twelve, so some houses may want it found by *their* pilgrims, or not found at all.
 
@@ -36,7 +53,7 @@
 
 🟡 The bottom of the Chain is probably worked by **another dwarf clan**. No one up top really knows.
 
-❓ Is the problem tied to the city "drifting" that Aithra senses?
+❓ Is the problem tied to the city sinking?
 
 ## Terek's Contract
 

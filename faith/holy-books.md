@@ -65,4 +65,4 @@ In use: *"That's a matter for the Kallergeia,"* or *"Not even the Evgeneia says 
 
 ## The Lost Book of Alantha
 
-✅ This is the book the pilgrims descend to find. The public knows it only as lost knowledge of Alantha. See [The Pilgrimage](pilgrimage.md).
+✅ This is the book the pilgrims descend to find. It **hasn't been seen since the city was raised**. The faithful believe it will bring them closer to Alantha. See [The Pilgrimage](pilgrimage.md).
