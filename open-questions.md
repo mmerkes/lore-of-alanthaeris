@@ -71,9 +71,8 @@ When a question is resolved, move the answer into the relevant page, log it in t
 ## Session 1
 - [ ] Terek: who hired him (Thaleia or Eudora), and who performs the healing (Lysandros Asterion, a Galenos priest, or Eudora)?
 
-- [ ] Sword instructor: character name, and which player (Bill?)
 - [ ] Myrto's father: Leontes (heir, huge fallout) or Niketas (contained)?
-- [ ] Why does the instructor snap: rage, an accident, or something supernatural?
+- [ ] Why does Ryland snap: rage, an accident, or something supernatural?
 - [ ] What ceremony did Myrto fail (🟡 the Fledging)?
 
 ## Worldbuilding

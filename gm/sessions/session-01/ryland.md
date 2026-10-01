@@ -1,12 +1,10 @@
-# 🔒 Session 1 Vignettes: The Sword Instructor (Elizabeth's table)
+# 🔒 Session 1 Vignettes: Ryland St Vere (Elizabeth)
 
 [← Home](../../../README.md)
 
-> ❓ Character name and player still to confirm. Elizabeth replied with "he says sure," so this may be Bill's character.
-
 ## Character
 
-- A **sword instructor** who teaches the children of the great families
+- **Ryland St Vere**, a **sword instructor** who teaches the children of the great families
 - 🟡 Either **paid by the family** and from the Outer or Middle Ring, or from a family with **no knack for magic** who learned the sword instead. That second option would give him a sore spot that this scene presses on.
 - **By the end of Session 1:** he has killed a father and son, and he is running for the Door.
 
@@ -70,6 +68,6 @@ I'd go with **A** if you want Session 1 to end with the city in uproar. **B** ke
 ## GM Notes
 
 - **Mike's reaction.** Lexandros is at the Door when his cousin's killer comes through. Talk to Mike beforehand, or let the reveal land live.
-- **Terek's chase idea.** Daniel once suggested Terek could be hired to chase this character. Terek is now Lexandros's bodyguard instead, but after this killing the family might add a second job: *"and if you find the man who did this…"*
+- **Terek's chase idea.** Daniel once suggested Terek could be hired to chase another PC. Terek is now Lexandros's bodyguard instead, but after this killing the family might add a second job: *"and if you find the man who did this…"*
 - **The Door is one-way.** Everyone ends up on the surface together: the pilgrim, his bodyguard, and his cousin's killer. That's great tension for the party.
 - **The fallout above** (succession, Wardens, House Drakaina) can echo through Aithra and the Twelve in later sessions, even though the party is below.

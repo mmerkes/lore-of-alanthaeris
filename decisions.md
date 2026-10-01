@@ -5,7 +5,7 @@
 Newest first.
 
 ## 2026-09-30 (sword instructor)
-- 🔒 A sword instructor PC kills **Myrto**, a magically inept boy of House Evgenios and Lexandros's cousin, and Myrto's father, then flees through the Door in Session 1.
+- 🔒 **Ryland St Vere** (Elizabeth), a sword instructor, kills **Myrto**, a magically inept boy of House Evgenios and Lexandros's cousin, and Myrto's father, then flees through the Door in Session 1.
 
 ## 2026-09-30 (Terek / surface)
 - **Iskiaeris** is the surface world.
