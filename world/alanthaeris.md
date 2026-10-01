@@ -25,7 +25,7 @@
 
 ✅ **The Underspire** is the name for everything **beneath** the city, inside the hanging rock.
 
-- ✅ **The Great Works:** the central core, home to the **dwarves**. ❓ It's presumably where the city's machinery is.
+- ✅ **The Great Works:** the central core, home to the **dwarves**, and where the city's machinery is. It's led by the **Master of the Great Works**.
 - ✅ **The Rookery:** the outer area, home to the poor, **goblins**, and criminals. It's named after Victorian slums, and birds nest there too.
 
 ## Getting Down

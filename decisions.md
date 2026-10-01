@@ -4,6 +4,11 @@
 
 Newest first.
 
+## 2026-09-30 (Meldren / Great Works)
+- The **Great Works** is led by the **Master of the Great Works**.
+- 🔒 **The Great Chain**, a massive chain in the Great Works, hauls shipments up from the surface. It officially doesn't exist.
+- 🔒 Shipments up the Chain have gone wrong: some are missing, and nonsensical items have arrived instead. **Meldren** (Josh), the Master's second-in-command, is sent down under cover as an ambassador to Iskiaeris to investigate.
+
 ## 2026-09-30 (Codex parts)
 - Each part of the Twelvefold Codex is named after its house, like the Odyssey after Odysseus (e.g., the **Evgeneia**, the **Kallergeia**). See [Holy Books](faith/holy-books.md#the-twelvefold-codex-the-book).
 

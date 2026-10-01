@@ -62,5 +62,13 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] Current year, and the calendar (brainstorm used "A.E.," Ascension Era)
 - [ ] What keeps the surface from striking back at the city?
 
+## The Great Works & the Chain
+- [ ] Name of the Master of the Great Works (🟡 Orrin Ashmantle proposed)
+- [ ] 🔒 Who works the bottom of the Great Chain? Is it cargo-only? Has anyone ridden it?
+- [ ] 🔒 What's actually wrong with the Chain's shipments?
+- [ ] What is **Iskiaeris** (Josh's term)? The surface realm, a specific city, or the land the island came from?
+- [ ] Does Meldren descend through the Door with the pilgrims, or by the Chain?
+- [ ] Dwarven naming palette (Meldren isn't Greek). Do Underspire dwarves follow their own naming style?
+
 ## Worldbuilding
 - [ ] Naming palette: the houses established a strong **Greek** flavor. Adopt that as the rule for Alanthan names?

@@ -26,6 +26,14 @@
 
 ✅ The **Twelvefold Codex**, or "the Book," is presented as the faith's holiest text and reserved for the Twelve. It's actually a **service manual for the flying city**. Each house guards its own part of how the city stays aloft and running.
 
+## The Great Chain
+
+✅ Inside the Great Works hangs a **massive chain that hauls shipments up from the surface**. **Officially, it doesn't exist.** But some goods, like certain delicacies, can only come from below. The dwarves of the Great Works know about it, and so presumably do the Twelve. The public doesn't.
+
+✅ **Something is wrong with it** (from Session 1): expected shipments haven't arrived, and items that make no sense have come up instead. Meldren is sent down, under cover as an ambassador, to find out why. See [Meldren's vignettes](sessions/session-01/meldren.md).
+
+❓ Who works the bottom of the Chain? Is it one-way, cargo only? Is the problem tied to the city "drifting" that Aithra senses?
+
 ## Lexandros's Selection
 
 ❓ Both the divine and arcane Keepers supported sending Lexandros Evgenios. Was it an honor, a political compromise, or cover for a hidden purpose? Consider: which lost-book faction benefits from an Evgenios pilgrim? Is he a junior scion nobody will miss?
