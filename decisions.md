@@ -4,6 +4,9 @@
 
 Newest first.
 
+## 2026-09-30 (sword instructor)
+- 🔒 A sword instructor PC kills **Myrto**, a magically inept boy of House Evgenios and Lexandros's cousin, and Myrto's father, then flees through the Door in Session 1.
+
 ## 2026-09-30 (Terek / surface)
 - **Iskiaeris** is the surface world.
 - **Everyone descends through the Door.** The Great Chain is cargo-only and best avoided. 🟡 Another dwarf clan probably works its bottom end.
