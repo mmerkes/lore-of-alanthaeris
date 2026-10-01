@@ -44,7 +44,24 @@
 
 🔒 In reality, it's a **service manual for the flying city**. See [Secrets](../gm/secrets.md#the-twelvefold-codex).
 
-❓ Open: what each house's part is called.
+✅ Each part is named after its house, the way the *Odyssey* (*Odysseia*) is named for Odysseus. 🟡 The form is: drop the name's ending and add **-eia** (said "AY-uh").
+
+| House | Part of the Codex |
+|---|---|
+| Evgenios | **Evgeneia** |
+| Drakaina | **Drakaineia** |
+| Asterion | **Astereia** |
+| Kallergis | **Kallergeia** |
+| Myriantos | **Myrianteia** |
+| Pyrakles | **Pyrakleia** |
+| Vassara | **Vassareia** |
+| Sarantios | **Saranteia** |
+| Eleimon | **Eleimoneia** |
+| Kyrillos | **Kyrilleia** |
+| Philanthes | **Philantheia** |
+| Galenos | **Galeneia** |
+
+In use: *"That's a matter for the Kallergeia,"* or *"Not even the Evgeneia says what lies past the Door."*
 
 ## The Lost Book of Alantha
 

@@ -4,6 +4,9 @@
 
 Newest first.
 
+## 2026-09-30 (Codex parts)
+- Each part of the Twelvefold Codex is named after its house, like the Odyssey after Odysseus (e.g., the **Evgeneia**, the **Kallergeia**). See [Holy Books](faith/holy-books.md#the-twelvefold-codex-the-book).
+
 ## 2026-09-30 (holy books, cont.)
 - **The Alanthiad** has many authors and two parts: one from before the city rose, and one from after, added by the Twelve.
 - **The Lightness of Being** is a separate philosophical text. 🟡 It was possibly added later to teach obedience to the Twelve, very indirectly.

@@ -12,7 +12,6 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] Does House Kallergis (city's flight) hold the most critical piece of the Book?
 - [ ] Can a house die out or be replaced? Has it ever happened? (The brainstorm's "Schism of the Seventh Spellweaver" could be the story of a fallen house.)
 - [ ] How do the Twelve decide things: voting, consensus, or a rotating first seat?
-- [ ] What is each house's part of the Twelvefold Codex called? (Not "Feather.")
 - [ ] The brainstorm had a candidate pool called "the Hundred-Forty-Four," which doesn't fit hereditary seats. Should it be repurposed (for cadet branches or retainer families) or dropped?
 
 ### The High Priest
