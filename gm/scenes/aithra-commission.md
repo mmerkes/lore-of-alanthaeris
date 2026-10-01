@@ -34,7 +34,7 @@
 >
 > The Twelve were meant to be the feathers of Her wings, twelve holding the city up together, each in its place. I love them, and I pray for them. But they have lost their way. They look to their own houses and their own pages of the Book, and they no longer look up. Pride, fear, grasping: that is weight, and the whole city carries it. We are drifting from Her, Lexandros. I feel it in every rite I lead.
 >
-> We don't need to fight them. We need to *return* to Her.
+> We don't need to fight them. We need to *return* to Her. And somewhere below us is what we've forgotten.
 >
 > *(Beat.)* You will be chosen for the Descent. I'm asking you to go not for the Twelve, and not for me, but for Her. Bring lightness to the Flightless, and find the Lost Book of Alantha.
 >
