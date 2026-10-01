@@ -57,7 +57,7 @@ This is the literal truth behind Aithra's sense that the city is "drifting" and 
 
 ## Terek's Contract
 
-✅ Lexandros's family secretly hired **Terek** (Daniel) to go through the Door and keep Lexandros alive. They paid him in **healing magic** for a sick loved one. Lexandros doesn't know. See [Terek's vignette](sessions/session-01/terek.md).
+✅ Lexandros's family secretly hired **Terek** (Daniel) to go through the Door and keep Lexandros alive. They paid him in **healing magic** for his mentor, a parent figure dying of age and consumption. Terek left without knowing whether it worked. Lexandros doesn't know. See [Terek's vignette](sessions/session-01/terek.md).
 
 ❓ If the faith teaches that the surface is welcoming, why does the family think Lexandros needs a bodyguard?
 

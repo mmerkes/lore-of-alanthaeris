@@ -67,7 +67,8 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] What is the dwarven naming style, specifically?
 
 ## Session 1
-- [ ] Terek: who hired him (Thaleia or Eudora), and who performs the healing (Lysandros Asterion, a Galenos priest, or Eudora)?
+- [ ] Terek: who hired him (Thaleia or Eudora), and who performs the healing (🟡 a Galenos priest, Lysandros Asterion, or Eudora)?
+- [ ] 🔒 Does Terek's mentor live?
 
 - [ ] Myrto's father: Leontes (heir, huge fallout) or Niketas (contained)?
 - [ ] Why does Ryland snap: rage, an accident, or something supernatural?

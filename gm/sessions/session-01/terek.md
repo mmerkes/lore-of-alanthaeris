@@ -14,7 +14,11 @@
 
 ✅ **Lexandros's family hired Terek to go through the Door and keep Lexandros alive.** Lexandros doesn't know.
 
-✅ **The payment isn't money; it's healing.** A sick loved one of Terek's is being healed by magic on behalf of Lexandros's family.
+✅ **The payment isn't money; it's healing.** Lexandros's family sends a healer for Terek's sick loved one.
+
+✅ **Who's sick:** Terek's **mentor**, a parent figure, now in a downward spiral from **age and consumption**. Terek carries **guilt** about it.
+
+✅ **It's almost last rites.** The healing may work, or it may only ease the end. **Terek doesn't stay to find out.**
 
 ✅ **What the table sees:** the other players know Terek has an obligation that sends him through the Door, but not what it is. Is he there to protect someone? Kill someone? Something else? Daniel can play it however he likes. Suspicion is the fun part.
 
@@ -25,31 +29,33 @@
 
 ### Who performs the healing (🟡 pick one)
 
-- **Lysandros Asterion** is my recommendation. He's Lexandros's uncle by marriage, and he comes from **House Asterion**, the house of medicine, alchemy and magical anatomy. He's someone who could plausibly come in person.
-- **A priest of House Galenos**, the house of spiritual healing and care of the dying. This would be a hired professional, sent on the family's behalf.
+- **A priest of House Galenos** is now my recommendation. Galenos is the house of funerary rites, spiritual healing, and care of the dying, so a healing that's halfway to last rites is exactly their work. The priest would be a hired professional, sent on the family's behalf.
+- **Lysandros Asterion**, Lexandros's uncle by marriage, from **House Asterion** (medicine and alchemy). He's more personal, and more clinical.
 - **Eudora herself.** She's a divine caster from House Vassara. A Keeper's widow walking into an Outer Ring home would make a striking image.
 
 ---
 
 ## Vignette: Waiting for the Healer
 
-**Daniel sets the scene:** Terek's home, who's in the room, who's sick, and how sick they are. Ask him for just enough to paint the room.
+**Daniel sets the scene:** Terek's home, who's in the room, and his mentor dying of consumption. Ask him for just enough to paint the room.
 
 ### Beats
 
-1. **Waiting.** Terek sits with the sick family member before the healer arrives. Give Daniel a quiet moment. The potted plant can be on the sill.
+1. **Waiting.** Terek sits by his mentor's bed before the healer arrives: the coughing, the thin hands, the guilt. Give Daniel a quiet moment. The potted plant can be on the sill.
 2. **The arrival.** The healer is clearly from the Inner Ring: fine clothes, a white feather pinned at the collar, out of place in an Outer Ring home. They greet the household with *"May the sky keep you."*
-3. **The healing.** 🟡 The ritual draws on the faith's imagery: windows thrown open to the sky, a prayer sung *upward*, and a white feather passed over the sick person. The air seems to grow lighter, and the patient breathes easier.
+3. **The healing, or the last rites.** 🟡 The ritual is ambiguous by design, and it could be either one. Windows are thrown open to the sky, a prayer is sung *upward*, and a white feather is passed over the mentor's chest. The words would fit a healing or a passing: *"Let what is heavy fall away. Let the sky take what it will."* The mentor's breathing eases. That might mean recovery, or it might mean peace.
 4. **The reminder.** On the way out, the healer speaks quietly to Terek where the family can't hear. Keep the wording **vague**, since the rest of the table is listening:
    - *"You remember what was agreed."*
    - *"When the Door opens, you go through it."*
    - *"We've kept our word. Keep yours."*
-5. **The hook (🟡 optional).** The healing isn't finished. *"The rest will follow, so long as you do your part."* That gives Terek ongoing stakes: if he fails, or walks away, his family member's care stops.
+5. **Terek leaves.** He doesn't wait to see whether it worked. Let Daniel play the goodbye, or the lack of one.
+6. **The hook (🟡 optional).** *"We'll see to him while you're gone, so long as you do your part."* Terek will never know whether the mentor lived, which gives him a question to carry through the whole campaign.
 
 ### Prompts for Daniel
 
-- Who is sick, and what are they to Terek?
-- What does Terek say to them once the healer has gone?
+- What's the mentor's name, and what did he teach Terek?
+- Where does Terek's guilt come from?
+- What does Terek say before he walks out, if anything?
 
 ---
 
