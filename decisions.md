@@ -4,6 +4,12 @@
 
 Newest first.
 
+## 2026-09-30 (Terek / surface)
+- **Iskiaeris** is the surface world.
+- **Everyone descends through the Door.** The Great Chain is cargo-only and best avoided. 🟡 Another dwarf clan probably works its bottom end.
+- **Dwarves** have their own naming style, not Greek.
+- 🔒 **Terek** (Daniel), an old Outer Ring mercenary, was secretly hired by Lexandros's family to protect him and paid in healing magic for a sick loved one. Lexandros doesn't know.
+
 ## 2026-09-30 (Meldren / Great Works)
 - The **Great Works** is led by the **Master of the Great Works**.
 - 🔒 **The Great Chain**, a massive chain in the Great Works, hauls shipments up from the surface. It officially doesn't exist.

@@ -32,7 +32,17 @@
 
 ✅ **Something is wrong with it** (from Session 1): expected shipments haven't arrived, and items that make no sense have come up instead. Meldren is sent down, under cover as an ambassador, to find out why. See [Meldren's vignettes](sessions/session-01/meldren.md).
 
-❓ Who works the bottom of the Chain? Is it one-way, cargo only? Is the problem tied to the city "drifting" that Aithra senses?
+✅ **People don't use the Chain.** Everyone descends through the Door. The Chain is best avoided.
+
+🟡 The bottom of the Chain is probably worked by **another dwarf clan**. No one up top really knows.
+
+❓ Is the problem tied to the city "drifting" that Aithra senses?
+
+## Terek's Contract
+
+✅ Lexandros's family secretly hired **Terek** (Daniel) to go through the Door and keep Lexandros alive. They paid him in **healing magic** for a sick loved one. Lexandros doesn't know. See [Terek's vignette](sessions/session-01/terek.md).
+
+❓ If the faith teaches that the surface is welcoming, why does the family think Lexandros needs a bodyguard?
 
 ## Lexandros's Selection
 

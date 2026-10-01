@@ -49,7 +49,7 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] What clues or scripture do pilgrims carry about where the book might be?
 - [ ] Who selects pilgrims, and how? Is being chosen a public honor, secretly rigged?
 - [ ] How often do pilgrimages happen?
-- [ ] Is the Door one-way? Is it the only way down? Has anyone ever returned?
+- [ ] Has anyone ever come back through the Door?
 - [ ] If no one returns, why doesn't anyone question it?
 - [ ] What do pilgrims believe the surface is like?
 
@@ -64,11 +64,12 @@ When a question is resolved, move the answer into the relevant page, log it in t
 
 ## The Great Works & the Chain
 - [ ] Name of the Master of the Great Works (🟡 Orrin Ashmantle proposed)
-- [ ] 🔒 Who works the bottom of the Great Chain? Is it cargo-only? Has anyone ridden it?
+- [ ] 🔒 Which dwarf clan works the bottom of the Great Chain?
 - [ ] 🔒 What's actually wrong with the Chain's shipments?
-- [ ] What is **Iskiaeris** (Josh's term)? The surface realm, a specific city, or the land the island came from?
-- [ ] Does Meldren descend through the Door with the pilgrims, or by the Chain?
-- [ ] Dwarven naming palette (Meldren isn't Greek). Do Underspire dwarves follow their own naming style?
+- [ ] What is the dwarven naming style, specifically?
+
+## Session 1
+- [ ] Terek: who hired him (Thaleia or Eudora), and who performs the healing (Lysandros Asterion, a Galenos priest, or Eudora)?
 
 ## Worldbuilding
 - [ ] Naming palette: the houses established a strong **Greek** flavor. Adopt that as the rule for Alanthan names?

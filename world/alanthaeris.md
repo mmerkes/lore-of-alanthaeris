@@ -30,4 +30,6 @@
 
 ## Getting Down
 
-✅ **The Door** is the way to the surface that pilgrims use. ❓ Whether it's the *only* way, and whether it's one-way, are both open.
+✅ **Iskiaeris** is the name of the surface world.
+
+✅ **Everyone who descends goes through the Door.** ❓ Whether anyone has ever come back is open.

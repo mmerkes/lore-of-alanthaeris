@@ -84,8 +84,8 @@ Pick one or two to show him. 🟡 These are all proposals.
 
 ## GM Notes
 
-- **The Great Chain is new lore.** It contradicts the idea that the Door is the *only* connection to the surface. Goods come up the Chain, and people go down through the Door. Is the Chain one-way, carrying cargo only? Has anyone ever ridden it?
-- **Iskiaeris** is Josh's name for the place below. Is it the surface realm as a whole, a specific city, or the land the island was torn from?
+- **The Great Chain** carries cargo. People don't ride it, and it's best avoided. 🟡 The bottom is probably worked by another dwarf clan.
+- **Iskiaeris** is the surface world.
 - **A link to Aithra's scene:** Aithra says the city is "drifting" and heavier. The Great Works problem could be the physical side of that. If so, House Kallergis (flight) and House Evgenios (infrastructure) would care a great deal.
 - **A link to the Lost Book:** if you use the vellum scrap, Meldren and Lexandros have a reason to compare notes once they're on the surface.
-- **How does Meldren descend?** Through the Door with the pilgrims, or by the Chain?
+- **Meldren descends through the Door**, like everyone else.
