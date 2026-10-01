@@ -34,13 +34,13 @@
 >
 > The Twelve were meant to be the feathers of Her wings, twelve holding the city up together, each in its place. I love them, and I pray for them. But they have lost their way. They look to their own houses and their own pages of the Book, and they no longer look up. Pride, fear, grasping: that is weight, and the whole city carries it. We are drifting from Her, Lexandros. I feel it in every rite I lead.
 >
-> We don't need to fight them. We need to *return* to Her. And somewhere below us is what we've forgotten.
+> We don't need to fight them. We need to *return* to Her.
 >
-> *(Beat.)* You will be chosen for the Descent. I'm asking you to go not for the Twelve, and not for me, but for Her. Go down to the Flightless and bring them lightness. And find the Lost Book of Alantha.
+> *(Beat.)* You will be chosen for the Descent. I'm asking you to go not for the Twelve, and not for me, but for Her. Bring lightness to the Flightless, and find the Lost Book of Alantha.
 >
-> Think what it holds, Lexandros. Her words, from before we forgot how to listen. What She asked of us, and why She lifted us at all. Everything we've spent centuries guessing at, the Twelve in their towers and I at Her altar. To read it would be to know Her as the first faithful knew Her. Not as a story, but as a presence. I believe it is the way back to Her, and the way to lift this city to the glory She always meant it to have.
+> Think what it holds: Her words, from before we forgot how to listen. To read it would be to know Her as the first faithful did. It is the way back to Her, and the way to lift this city to the glory She meant it to have.
 >
-> *(Gently.)* I won't pretend it's an easy thing. The world below is vast, the book has been lost for longer than anyone remembers, and no map leads to it. It may seem impossible. But it's only impossible for those who go heavy: those who carry pride, or fear, or the need to be right. Whoever goes lightly, and seeks Her guidance in all things, will be shown the path. Not all at once. One step, then the next, the way a swift finds the wind.
+> *(Gently.)* It will seem impossible. The world below is vast, and no map leads to the book. But it's only impossible for those who go heavy. Whoever goes lightly and seeks Her guidance will be shown the path, the way a swift finds the wind.
 >
 > Of everyone I know, your soul is the lightest. That's why it must be you.
 >
