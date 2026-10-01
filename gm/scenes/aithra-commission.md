@@ -19,6 +19,8 @@
 5. **The answer is to draw closer to Alantha.** The answer isn't defiance or reform by force. The city needs to return to Her, and the Lost Book holds what was forgotten.
 6. **Why Lexandros.** His faith is genuine and he has no ambition. He is light, which makes him able to carry Her light down.
 7. **The charge.** Descend. Bring lightness to the Flightless. Find the Lost Book, and bring the city to the glory Alantha meant it to have.
+8. **What the book offers.** Her own words, from before the faithful forgot how to listen. Finding it means knowing Alantha as the first faithful did, and drawing closer to Her than anyone has in centuries.
+9. **The impossible task.** It seems impossible: the world is vast, there's no map, and the book has been lost for ages. But one who goes lightly and seeks Alantha's guidance will be shown the path, one step at a time.
 
 ---
 
@@ -34,7 +36,11 @@
 >
 > We don't need to fight them. We need to *return* to Her. And somewhere below us is what we've forgotten.
 >
-> *(Beat.)* You will be chosen for the Descent. I'm asking you to go not for the Twelve, and not for me, but for Her. Go down to the Flightless and bring them lightness. And find the Lost Book of Alantha. I believe it holds the way back to Her: the way to lift this city to the glory She always meant it to have.
+> *(Beat.)* You will be chosen for the Descent. I'm asking you to go not for the Twelve, and not for me, but for Her. Go down to the Flightless and bring them lightness. And find the Lost Book of Alantha.
+>
+> Think what it holds, Lexandros. Her words, from before we forgot how to listen. What She asked of us, and why She lifted us at all. Everything we've spent centuries guessing at, the Twelve in their towers and I at Her altar. To read it would be to know Her as the first faithful knew Her. Not as a story, but as a presence. I believe it is the way back to Her, and the way to lift this city to the glory She always meant it to have.
+>
+> *(Gently.)* I won't pretend it's an easy thing. The world below is vast, the book has been lost for longer than anyone remembers, and no map leads to it. It may seem impossible. But it's only impossible for those who go heavy: those who carry pride, or fear, or the need to be right. Whoever goes lightly, and seeks Her guidance in all things, will be shown the path. Not all at once. One step, then the next, the way a swift finds the wind.
 >
 > Of everyone I know, your soul is the lightest. That's why it must be you.
 >
