@@ -26,7 +26,7 @@
 
 > *(Taking Eudora's hands.)* Aunt Eudora. May the sky keep you.
 >
-> *(To Lexandros, smiling.)* And you, still taller every time I see you. Sit with me, both of you.
+> *(To Lexandros, clasping his hands in turn.)* And you, Lexandros. Sit with me, both of you. There's no one here to perform for.
 >
 > *(She looks up, through the open dome.)* Do you remember the oldest verses of the Alanthiad, Lexandros? The ones written before the rising? They don't speak of houses or seats. They speak of a people who were lifted *because they were light*. They didn't take it as a prize. She gave it to them as a gift.
 >
