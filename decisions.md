@@ -4,6 +4,11 @@
 
 Newest first.
 
+## 2026-09-30 (holy books, cont.)
+- **The Alanthiad** has many authors and two parts: one from before the city rose, and one from after, added by the Twelve.
+- **The Lightness of Being** is a separate philosophical text. 🟡 It was possibly added later to teach obedience to the Twelve, very indirectly.
+- **The Twelvefold Codex** has one part per house. ("Feather" was rejected as the name for a part.)
+
 ## 2026-09-30 (holy books)
 - **The Alanthiad** is the faith's scripture, the equivalent of the Bible.
 - **The Lightness of Being** is a holy book (where it fits is open).

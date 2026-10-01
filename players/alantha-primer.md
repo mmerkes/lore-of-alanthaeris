@@ -22,8 +22,8 @@ Beneath the city lies **the Underspire**. At its core are **the Great Works**, w
 
 ## Holy Books
 
-- **The Alanthiad** is the faith's scripture, which every Alanthan knows.
-- **The Lightness of Being** contains the teachings on living lightly. It's the most-quoted text in daily life.
+- **The Alanthiad** is the faith's scripture, which every Alanthan knows. It was written by many hands, in two parts: the older one from before the city rose, and the newer one added by the Twelve since.
+- **The Lightness of Being** is a philosophical meditation on lightness and weight: what burdens the soul and how to live well aloft.
 - **The Twelvefold Codex**, or simply **"the Book,"** is the holiest text of all. It's too sacred for anyone but the Twelve to read, which is why they're called its Keepers.
 - **The Lost Book of Alantha** holds knowledge the city has lost. It's what the pilgrims seek.
 

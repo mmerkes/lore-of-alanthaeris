@@ -34,6 +34,10 @@
 
 ✅ The faith's beauty is sincere, but it was **crafted to build loyalty to the Twelve**. Its imagery and sayings are shaped so that devotion to Alantha and obedience to the ruling houses feel like the same thing. The clearest examples are the twelve feathers ("pluck one feather and the wing fails") and "every feather in its place."
 
+✅ Where it lives in scripture:
+- **The Alanthiad's second part**, written after the rising, was added by the Twelve.
+- 🟡 **The Lightness of Being** was added later. It teaches obedience to the Twelve so indirectly that most readers never notice.
+
 ❓ Who shaped it, and when? Was it the founders, or later generations of the Twelve? Do the Twelve still believe it themselves?
 
 ## Candidate Secrets (not decided)

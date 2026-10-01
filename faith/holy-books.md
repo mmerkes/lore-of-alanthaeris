@@ -2,38 +2,49 @@
 
 [← Home](../README.md)
 
-| Book | Read by | Status |
+| Book | Read by | What it is |
 |---|---|---|
-| **The Alanthiad** | Everyone | ✅ |
-| **The Lightness of Being** | Everyone | ✅ name; ❓ where it fits |
-| **The Twelvefold Codex** ("the Book") | The Twelve only | ✅ |
-| **The Lost Book of Alantha** | No one; it's lost | ✅ |
+| **The Alanthiad** | Everyone | Scripture with many authors, in two parts: before and after the rising |
+| **The Lightness of Being** | Everyone, especially the educated | A philosophical text |
+| **The Twelvefold Codex** ("the Book") | The Twelve only | The holiest text, one part per house |
+| **The Lost Book of Alantha** | No one; it's lost | What the pilgrims seek |
 
 ## The Alanthiad
 
-✅ This is the faith's scripture, the Alanthan equivalent of the Bible. It's the great collection that clergy teach from and everyone knows.
+✅ The Alanthiad is the faith's scripture, the Alanthan equivalent of the Bible. It's the great collection that clergy teach from and everyone knows.
 
-🟡 Proposed contents: the story of the city's rising, Alantha's teachings, the founding of the twelve houses, and the rites.
+✅ It has **many authors**. Like the Old and New Testaments, it has two parts:
 
-❓ Open: which books it contains, who wrote it, and whether it has been revised over the centuries. (🔒 That could be how the loyalty-building doctrine got in. See [Secrets](../gm/secrets.md).)
+| Part | Covers | Written by |
+|---|---|---|
+| **The first part** | Before the city rose | Many authors, from the time when Alantha's faithful still lived on the ground |
+| **The second part** | After the city rose | ✅ Added by **the Twelve** over the centuries |
+
+❓ The names of the two parts are open.
+
+🔒 The second part is the Twelve's own addition to scripture. That makes it a natural place for the doctrine of loyalty to them to have crept in. See [Secrets](../gm/secrets.md#the-doctrine-was-designed).
+
+❓ Open: which individual books each part contains.
 
 ## The Lightness of Being
 
-✅ The name is decided.
+✅ The Lightness of Being is a **philosophical text**, separate from the Alanthiad. It's a meditation on lightness and weight: what burdens a soul, what frees it, and how to live well aloft.
 
-🟡 Proposed: it's practical teaching on living lightly (shedding weight, confession, keeping your place). It's the most-quoted text in everyday life.
+🟡 It was **added later** than the Alanthiad. Beneath its philosophy, it **very indirectly** teaches obedience to the Twelve and acceptance of one's place. It never says so outright. A reader comes away believing that contentment, order, and lightness go together, and that striving above one's station is a kind of weight. 🔒 See [Secrets](../gm/secrets.md#the-doctrine-was-designed).
 
-❓ Open: is it one of the books inside the Alanthiad, the way Psalms is part of the Bible, or a separate book?
+❓ Open: who wrote it, and when? Is it attributed to a single philosopher?
 
 ## The Twelvefold Codex ("the Book")
 
-✅ This is the sacred text of the Twelve. They are formally titled *Keepers of the Book* because of it. People usually just call it **the Book**.
+✅ The Codex is the sacred text of the Twelve, and it's why they're formally titled *Keepers of the Book*. People usually just call it **the Book**.
 
 ✅ Publicly, it's the faith's **holiest text**, too sacred for anyone outside the Twelve to read.
 
-🔒 In reality it's a **service manual for the flying city**. See [Secrets](../gm/secrets.md#the-twelvefold-codex).
+✅ It has **one part per house**. No single house holds the whole Book.
 
-🟡 Proposed: it's split into twelve sections, one per house. Each section is called that house's *Feather* (for example, "the Kallergis Feather"). No one house holds the whole Book.
+🔒 In reality, it's a **service manual for the flying city**. See [Secrets](../gm/secrets.md#the-twelvefold-codex).
+
+❓ Open: what each house's part is called.
 
 ## The Lost Book of Alantha
 
