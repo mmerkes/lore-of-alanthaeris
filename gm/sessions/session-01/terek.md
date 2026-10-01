@@ -16,7 +16,7 @@
 
 ✅ **The payment isn't money; it's healing.** Eudora heals Terek's sick loved one herself.
 
-✅ **Who's sick:** Terek's **mentor**, a parent figure, now in a downward spiral from **age and consumption**. Terek carries **guilt** about it.
+✅ **Who's sick:** **Markin**, Terek's **mentor** and a parent figure, now in a downward spiral from **age and consumption**. Terek carries **guilt** about it.
 
 ✅ **It's almost last rites.** The healing may work, or it may only ease the end. **Terek doesn't stay to find out.**
 
@@ -36,7 +36,7 @@
 
 ### Beats
 
-1. **Waiting.** Terek sits by his mentor's bed before the healer arrives: the coughing, the thin hands, the guilt. Give Daniel a quiet moment. The potted plant can be on the sill.
+1. **Waiting.** Terek sits by Markin's bed before the healer arrives: the coughing, the thin hands, the guilt. Give Daniel a quiet moment. The potted plant can be on the sill.
 2. **The arrival.** An elderly woman from the Inner Ring arrives. (It's **Eudora Vassara**, but she stays **unnamed** at the table.) She's in fine clothes with a white feather pinned at her collar. She's plainly out of place in an Outer Ring home, and she's entirely at ease anyway. *"May the sky keep you."*
    - ✅ **Keep her unnamed** ("an old woman of the Inner Ring"). Avoid details that would let Mike recognize his grandmother.
 3. **The healing, or the last rites.** 🟡 The ritual is ambiguous by design, and it could be either one. Windows are thrown open to the sky, a prayer is sung *upward*, and a white feather is passed over the mentor's chest. The words would fit a healing or a passing: *"Let what is heavy fall away. Let the sky take what it will."* The mentor's breathing eases. That might mean recovery, or it might mean peace.
@@ -45,11 +45,11 @@
    - *"When the Door opens, you go through it."*
    - *"We've kept our word. Keep yours."*
 5. **Terek leaves.** He doesn't wait to see whether it worked. Let Daniel play the goodbye, or the lack of one.
-6. **The hook (🟡 optional).** *"We'll see to him while you're gone, so long as you do your part."* Terek will never know whether the mentor lived, which gives him a question to carry through the whole campaign.
+6. **The hook (🟡 optional).** *"We'll see to him while you're gone, so long as you do your part."* Terek will never know whether Markin lived, which gives him a question to carry through the whole campaign.
 
 ### Prompts for Daniel
 
-- What's the mentor's name, and what did he teach Terek?
+- What did Markin teach Terek?
 - Where does Terek's guilt come from?
 - What does Terek say before he walks out, if anything?
 
