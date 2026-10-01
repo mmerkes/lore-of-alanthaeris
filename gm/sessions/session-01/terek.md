@@ -37,8 +37,8 @@
 ### Beats
 
 1. **Waiting.** Terek sits by his mentor's bed before the healer arrives: the coughing, the thin hands, the guilt. Give Daniel a quiet moment. The potted plant can be on the sill.
-2. **The arrival.** **Eudora Vassara** arrives. She's an elderly woman from the Inner Ring, in fine clothes with a white feather pinned at her collar. She's plainly out of place in an Outer Ring home, and she's entirely at ease anyway. *"May the sky keep you."*
-   - ❓ Does the table learn her name? Mike will recognize his grandmother if she's described or named. Keeping her unnamed ("an old woman of the Inner Ring") preserves the mystery. Naming her makes everyone wonder what she wants with Terek.
+2. **The arrival.** An elderly woman from the Inner Ring arrives. (It's **Eudora Vassara**, but she stays **unnamed** at the table.) She's in fine clothes with a white feather pinned at her collar. She's plainly out of place in an Outer Ring home, and she's entirely at ease anyway. *"May the sky keep you."*
+   - ✅ **Keep her unnamed** ("an old woman of the Inner Ring"). Avoid details that would let Mike recognize his grandmother.
 3. **The healing, or the last rites.** 🟡 The ritual is ambiguous by design, and it could be either one. Windows are thrown open to the sky, a prayer is sung *upward*, and a white feather is passed over the mentor's chest. The words would fit a healing or a passing: *"Let what is heavy fall away. Let the sky take what it will."* The mentor's breathing eases. That might mean recovery, or it might mean peace.
 4. **The reminder.** On the way out, Eudora speaks quietly to Terek. Keep the wording **vague**, since the rest of the table is listening:
    - *"You remember what was agreed."*
