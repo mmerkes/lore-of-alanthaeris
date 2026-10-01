@@ -67,7 +67,8 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] What is the dwarven naming style, specifically?
 
 ## Session 1
-- [ ] Terek: who hired him (Thaleia or Eudora), and who performs the healing (🟡 a Galenos priest, Lysandros Asterion, or Eudora)?
+- [ ] Is Eudora named or described in Terek's scene, or left as an unnamed Inner Ring woman?
+- [ ] 🔒 What does Eudora know about the surface, and about the Descent?
 - [ ] 🔒 Does Terek's mentor live?
 
 - [ ] Myrto's father: Leontes (heir, huge fallout) or Niketas (contained)?

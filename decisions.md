@@ -4,6 +4,9 @@
 
 Newest first.
 
+## 2026-09-30 (Terek, cont.)
+- 🔒 **Eudora Vassara** hired Terek to protect Lexandros and performs the healing herself. The sick one is Terek's mentor (age, consumption). The scene is deliberately vague about what Terek agreed to.
+
 ## 2026-09-30 (Reeve / Kallergis)
 - 🔒 **The city is slowly sinking.** Not widely known. Some blame House Kallergis.
 - The city was raised by arcane and divine magic together. The dwarves maintain the non-magical machinery.

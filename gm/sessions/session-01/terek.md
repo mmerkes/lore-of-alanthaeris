@@ -12,9 +12,9 @@
 
 ## The Secret
 
-✅ **Lexandros's family hired Terek to go through the Door and keep Lexandros alive.** Lexandros doesn't know.
+✅ **Secretly, Terek is there to protect Lexandros.** His grandmother Eudora hired him. Lexandros doesn't know.
 
-✅ **The payment isn't money; it's healing.** Lexandros's family sends a healer for Terek's sick loved one.
+✅ **The payment isn't money; it's healing.** Eudora heals Terek's sick loved one herself.
 
 ✅ **Who's sick:** Terek's **mentor**, a parent figure, now in a downward spiral from **age and consumption**. Terek carries **guilt** about it.
 
@@ -22,16 +22,11 @@
 
 ✅ **What the table sees:** the other players know Terek has an obligation that sends him through the Door, but not what it is. Is he there to protect someone? Kill someone? Something else? Daniel can play it however he likes. Suspicion is the fun part.
 
-### Who hired him (🟡 pick one)
+### Eudora Vassara
 
-- **Thaleia Melanthios, Lexandros's mother.** This is the version you and Daniel discussed ("Mike's mom"). She's from an artisan family, not a Keeper house, so she'd need help to arrange a healing. That help could come from Eudora or from Lysandros.
-- **Eudora Vassara, his grandmother.** She's already shown she's invested in his Descent through Aithra's scene. If she arranged a bodyguard, it suggests she knows more about what's below than she lets on.
+✅ **Eudora Vassara**, Lexandros's grandmother, hired Terek **and** performs the healing herself. She's a divine caster of House Vassara.
 
-### Who performs the healing (🟡 pick one)
-
-- **A priest of House Galenos** is now my recommendation. Galenos is the house of funerary rites, spiritual healing, and care of the dying, so a healing that's halfway to last rites is exactly their work. The priest would be a hired professional, sent on the family's behalf.
-- **Lysandros Asterion**, Lexandros's uncle by marriage, from **House Asterion** (medicine and alchemy). He's more personal, and more clinical.
-- **Eudora herself.** She's a divine caster from House Vassara. A Keeper's widow walking into an Outer Ring home would make a striking image.
+✅ **The scene stays vague** about what exactly Terek agreed to. The other players should leave unsure whether he's sworn to protect someone, harm someone, or something else entirely.
 
 ---
 
@@ -42,9 +37,10 @@
 ### Beats
 
 1. **Waiting.** Terek sits by his mentor's bed before the healer arrives: the coughing, the thin hands, the guilt. Give Daniel a quiet moment. The potted plant can be on the sill.
-2. **The arrival.** The healer is clearly from the Inner Ring: fine clothes, a white feather pinned at the collar, out of place in an Outer Ring home. They greet the household with *"May the sky keep you."*
+2. **The arrival.** **Eudora Vassara** arrives. She's an elderly woman from the Inner Ring, in fine clothes with a white feather pinned at her collar. She's plainly out of place in an Outer Ring home, and she's entirely at ease anyway. *"May the sky keep you."*
+   - ❓ Does the table learn her name? Mike will recognize his grandmother if she's described or named. Keeping her unnamed ("an old woman of the Inner Ring") preserves the mystery. Naming her makes everyone wonder what she wants with Terek.
 3. **The healing, or the last rites.** 🟡 The ritual is ambiguous by design, and it could be either one. Windows are thrown open to the sky, a prayer is sung *upward*, and a white feather is passed over the mentor's chest. The words would fit a healing or a passing: *"Let what is heavy fall away. Let the sky take what it will."* The mentor's breathing eases. That might mean recovery, or it might mean peace.
-4. **The reminder.** On the way out, the healer speaks quietly to Terek where the family can't hear. Keep the wording **vague**, since the rest of the table is listening:
+4. **The reminder.** On the way out, Eudora speaks quietly to Terek. Keep the wording **vague**, since the rest of the table is listening:
    - *"You remember what was agreed."*
    - *"When the Door opens, you go through it."*
    - *"We've kept our word. Keep yours."*
@@ -61,7 +57,7 @@
 
 ## GM Notes
 
-- **Mike doesn't know.** Lexandros has no idea his family hired a bodyguard. When Terek "happens" to stick close to him on the surface, it will play well.
+- **Mike doesn't know.** Lexandros has no idea his grandmother hired a bodyguard. When Terek "happens" to stick close to him on the surface, it will play well.
 - **The Daniel/Bill idea** (Terek hired to chase Bill's character) was floated and set aside in favor of the bodyguard idea. It could come back if Bill's character has something to hide.
 - **A dramatic payoff:** Terek is suspected by the party, then dies saving someone. You mentioned it as a fun possibility, not a plan.
-- **Why hire a guard at all?** If the family believes the surface is welcoming, as the faith teaches, why do they think Lexandros needs one? Whoever hired Terek may know the surface is dangerous. That's a thread toward the truth about Iskiaeris.
+- **Why hire a guard at all?** The faith teaches that the surface is welcoming, yet Eudora hired a sword. She was also in the room for Aithra's commission. She may know the surface is dangerous, or know more about the Descent than she lets on. That's a thread toward the truth about Iskiaeris.
