@@ -20,6 +20,13 @@ Beneath the city lies **the Underspire**. At its core are **the Great Works**, w
 - **Every feather in its place.** The city stays aloft because everyone keeps to their role, and because the Twelve hold it up.
 - **When the faithful die, they take wing** and join the High Air, the winds that circle forever above the city.
 
+## Holy Books
+
+- **The Alanthiad** is the faith's scripture, which every Alanthan knows.
+- **The Lightness of Being** contains the teachings on living lightly. It's the most-quoted text in daily life.
+- **The Twelvefold Codex**, or simply **"the Book,"** is the holiest text of all. It's too sacred for anyone but the Twelve to read, which is why they're called its Keepers.
+- **The Lost Book of Alantha** holds knowledge the city has lost. It's what the pilgrims seek.
+
 ## The Holy Symbol
 
 The holy symbol is **the White Swift**, the bird that never lands. Its wings sweep up in a crescent, and each wing has six feathers: twelve in all, one for each great house. Seeing a white swift is a blessing. The devout wear white feathers.
@@ -42,4 +49,4 @@ The faith's colors are white, sky blue and silver. Its temples are open to the s
 
 ## The Descent
 
-Pilgrims are chosen and sent down through **the Door** to the surface. Their holy task is to recover **the lost book of Alantha**, which holds knowledge of the All-Mother that the city has lost. They may **not return until they find it**. Along the way, they carry Alantha's light to the Flightless.
+Pilgrims are chosen and sent down through **the Door** to the surface. Their holy task is to recover **the Lost Book of Alantha**, which holds knowledge of the All-Mother that the city has lost. They may **not return until they find it**. Along the way, they carry Alantha's light to the Flightless.

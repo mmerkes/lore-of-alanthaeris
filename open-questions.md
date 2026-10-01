@@ -12,7 +12,7 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] Does House Kallergis (city's flight) hold the most critical piece of the Book?
 - [ ] Can a house die out or be replaced? Has it ever happened? (The brainstorm's "Schism of the Seventh Spellweaver" could be the story of a fallen house.)
 - [ ] How do the Twelve decide things: voting, consensus, or a rotating first seat?
-- [ ] Is the Book literally split into twelve parts, one per house?
+- [ ] Is the Twelvefold Codex literally split into twelve parts ("Feathers"), one per house?
 - [ ] The brainstorm had a candidate pool called "the Hundred-Forty-Four," which doesn't fit hereditary seats. Should it be repurposed (for cadet branches or retainer families) or dropped?
 
 ### The High Priest
@@ -41,7 +41,8 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] 🔒 Who designed the loyalty-building doctrine, and do the Twelve still believe it?
 
 ## The Pilgrimage
-- [ ] Name of the lost book: *the Fallen Feather* (proposed), *the Thirteenth Feather*, *the Quill of Alantha*, or something else?
+- [ ] Is *The Lightness of Being* a book within the Alanthiad, or separate?
+- [ ] What books make up the Alanthiad? Who wrote it? Has it been revised?
 - [ ] How and when was the book lost? Why is it believed to be on the surface?
 - [ ] 🔒 What is the lost book *really*? Which theory is right: the manual, the holy text, both, or neither?
 - [ ] 🔒 Do the two theories split the Twelve into factions? Do some houses want the book *not* found?

@@ -4,6 +4,12 @@
 
 Newest first.
 
+## 2026-09-30 (holy books)
+- **The Alanthiad** is the faith's scripture, the equivalent of the Bible.
+- **The Lightness of Being** is a holy book (where it fits is open).
+- **The Twelvefold Codex**, colloquially **"the Book,"** is presented as the holiest text and is for the Twelve only. 🔒 It's really the city's service manual.
+- The lost book is named **the Lost Book of Alantha**. (*The Fallen Feather* and other proposals were dropped.)
+
 ## 2026-09-30 (greeting)
 - The standard greeting is **"The sky keeps you."** The reply is **"And you."** (*"Under Her wings"* was rejected.)
 

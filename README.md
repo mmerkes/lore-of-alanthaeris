@@ -20,6 +20,7 @@ Campaign lore for a Shadowdark campaign centered on **Alanthaeris**, a floating 
 ### The Faith
 - [Alantha](faith/alantha.md): the goddess, her beliefs, and her symbols
 - [Church Hierarchy](faith/hierarchy.md): the High Priest, the Twelve, the Wardens
+- [Holy Books](faith/holy-books.md): the Alanthiad, the Lightness of Being, the Twelvefold Codex, the Lost Book
 - [The Twelve Houses](faith/twelve-houses.md): the ruling families, their spheres, marriages, and House Evgenios
 - [The Pilgrimage](faith/pilgrimage.md): the descent to the surface
 

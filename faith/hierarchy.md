@@ -48,9 +48,9 @@ High Priest/Priestess  ── ceremonial head (hereditary)
 - All twelve houses are considered **priestly**.
 - The houses keep a **half-arcane, half-divine** split: six arcane houses and six divine houses.
 - **Every house guards its own secrets** for keeping the city flying and working. That makes each house hard to replace.
-- The formal name is **Keepers of the Book**. People usually just say **the Twelve**.
+- The formal name is **Keepers of the Book**. People usually just say **the Twelve**. "The Book" is the **Twelvefold Codex** (see [Holy Books](holy-books.md)).
 
-🟡 Leaning: the **Book** is split into twelve parts, and each house holds one. The complete Book exists only when all twelve cooperate.
+🟡 Leaning: the Codex is split into twelve parts, and each house holds one. The complete Book exists only when all twelve cooperate.
 
 ✅ House names, Keepers, and spheres are on [The Twelve Houses](twelve-houses.md).
 

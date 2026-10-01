@@ -8,7 +8,7 @@
 
 ✅ The pilgrims' mission is to recover the **lost book of Alantha** (see [The Pilgrimage](../faith/pilgrimage.md)). The public knows only that it holds lost knowledge of Alantha. Among the Twelve, **two theories** prevail:
 
-1. **It's a maintenance manual.** The lost book is the missing piece of the Book, and it would fix the shortcomings and gaps in the current one. This is the practical view: the city has problems, and the book has the fixes.
+1. **It's a maintenance manual.** The lost book is the missing piece of the Twelvefold Codex, and it would fix the shortcomings and gaps in the current one. This is the practical view: the city has problems, and the book has the fixes.
 2. **It's a truly holy text.** The lost book would bring its readers closer to Alantha, answer questions the faith can't, and solve the city's problems through enlightenment.
 
 🟡 Proposed: these theories line up with **factions among the houses**, which gives the Twelve an internal politics. Also proposed: whichever house recovers the book gains enormous leverage. A "thirteenth feather" could upset the balance of twelve, so some houses may want it found by *their* pilgrims, or not found at all.
@@ -22,9 +22,9 @@
 
 ⚠️ The pilgrims themselves do **not** know about any of this.
 
-## The Book
+## The Twelvefold Codex
 
-✅ The Book the Twelve keep is essentially a **giant maintenance manual for the city**. Each house guards its own part of how the city stays aloft and running.
+✅ The **Twelvefold Codex**, or "the Book," is presented as the faith's holiest text and reserved for the Twelve. It's actually a **service manual for the flying city**. Each house guards its own part of how the city stays aloft and running.
 
 ## Lexandros's Selection
 
