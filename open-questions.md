@@ -86,7 +86,8 @@ See [Session 2](gm/sessions/session-02/README.md) for the proposed options.
 - [ ] What Orshon knows about Reeve (🟡 the uncle passed through), and his excuse for the delay
 - [ ] Is Deximus in on the demon (🟡 no)?
 - [ ] Other reasons the party stays: the goblin-held trail, the send-off feast, recovery
-- [ ] Which host family takes which PC
+- [ ] Which host family takes which PC, and who the fifth host is (🟡 Deximus or Hollis the smith)
+- [ ] Surface naming style (🟡 plain and earthy, like Marra, Jory, and Wren)
 - [ ] The hag: who she is, which PC her dolls target, and how she relates to the leader and the demon
 
 ## Worldbuilding

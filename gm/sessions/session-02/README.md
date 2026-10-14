@@ -41,17 +41,23 @@ The party came through the Door into **ruins in a forest** on Iskiaeris. The ses
 ❓ Village name. (Alanthan names are Greek; surface names can be something else.)
 ❓ Name of the bigger town.
 
-### Host Families 🟡
+### Host Families
 
-One host per PC, each a small window into the cult. Ideas to assign:
+✅ One host per PC, each a small window into the cult. ❓ Which host takes which PC.
 
-| Host | Flavor | What's off |
+🟡 **Names:** surface villagers get plain, earthy names, a deliberate contrast with the Greek names of Alanthaeris. All the host names below are 🟡.
+
+| Host | Who they are | What's off |
 |---|---|---|
-| A widowed mother | Warm, feeds the PC far too much | Her two children went "on pilgrimage" last year. She reads their smoke every night. |
-| A young couple | Giddy, newly married | They're praying to be chosen as the next pilgrim pair. |
-| An old woodcutter | Gruff, practical | Keeps one of the uncle's pages pressed in a box and can recite it, wrong, word for word. |
-| Two siblings | Teenagers, devout and eager | They're sure they'll be chosen as a pilgrim pair someday, and they can't wait. |
-| Orshon's household | Comfortable, the best house in the village | Best place to notice what the leader hides. Good for Lexandros as the priest, or for Terek, who'd be wary. |
+| ✅ **Marra**, a widowed mother | Warm, and feeds the PC far too much | Her two children, 🟡 **Coll and Brin**, went "on pilgrimage" last year. She reads their smoke every night. |
+| ✅ **Jory and Tamsin**, a young couple | Giddy and newly married | They're praying to be chosen as the next pilgrim pair, which would be the twelfth. |
+| ✅ **Pell and Wren**, two siblings | Teenagers who are **eager about everything from the flying city**. They want to know what the clouds feel like, what the angels eat, and whether Alantha has a face. | They're **looking for spiritual guidance** and will treat whatever their angel says as scripture. That's a gift for a PC who wants to steer them, and a weight on one who doesn't. They're also exactly the kind of pair Orshon picks. |
+| 🟡 **Orshon's household** | Comfortable, the best house in the village | The best place to notice what the leader hides. Good for Lexandros as the priest, or for Terek, who'd be wary. |
+| 🟡 **A fifth host**, to replace the woodcutter | See the options below | |
+
+🟡 **Fifth host options:**
+1. **Deximus.** He "volunteers" grudgingly, to keep an eye on one of the angels. That makes for a tense night under a suspicious roof. It's good for Ryland, who has the most to hide.
+2. **Hollis, the smith.** A practical host, and the one fixing the party's gear. It's good for Terek.
 
 ## Village Characters
 

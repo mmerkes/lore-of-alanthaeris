@@ -4,6 +4,10 @@
 
 Newest first.
 
+## 2026-10-13 (Session 2: host families)
+- Hosts kept: **the widowed mother**, **the young couple**, and **the two siblings**. The siblings are eager about everything from the flying city and are looking for spiritual guidance.
+- The woodcutter was cut, to stay away from the lightness angle.
+
 ## 2026-10-13 (Session 2: Orshon and Deximus)
 - 🔒 The cult leader is **Orshon**. His right-hand man is **Deximus**: skeptical of the PCs, negative, very devout, and too eager to burn things. Deximus takes the captured goblin back for sacrifice.
 - The captured goblin is **burned at the stake**.
