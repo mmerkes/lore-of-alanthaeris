@@ -4,6 +4,12 @@
 
 Newest first.
 
+## 2026-10-13 (the village page)
+- **Surface naming style:** plain and earthy (Marra, Jory, Tamsin, Pell, Wren), in contrast to the city's Greek names.
+- Host names confirmed: **Marra**, **Jory and Tamsin**, **Pell and Wren**. **Hollis** is the village smith.
+- Matt assigns hosts at the table and may put several PCs in one house.
+- All village information now lives on one page: [The Village of Smoke](gm/places/village.md).
+
 ## 2026-10-13 (Session 2: host families)
 - Hosts kept: **the widowed mother**, **the young couple**, and **the two siblings**. The siblings are eager about everything from the flying city and are looking for spiritual guidance.
 - The woodcutter was cut, to stay away from the lightness angle.

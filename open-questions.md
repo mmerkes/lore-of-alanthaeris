@@ -79,15 +79,13 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] 🔒 Who knows the city is sinking: all the Twelve? Aithra? The Wardens?
 
 ## Session 2 🔒
-See [Session 2](gm/sessions/session-02/README.md) for the proposed options.
+See [the village page](gm/places/village.md) and [Session 2](gm/sessions/session-02/README.md) for the proposed options.
 - [ ] Names: the village and the bigger town
 - [ ] The demon in the woods: what it is, the bargain, and its lair
 - [ ] Which garbled scripture lines to use
 - [ ] What Orshon knows about Reeve (🟡 the uncle passed through), and his excuse for the delay
 - [ ] Is Deximus in on the demon (🟡 no)?
 - [ ] Other reasons the party stays: the goblin-held trail, the send-off feast, recovery
-- [ ] Which host family takes which PC, and who the fifth host is (🟡 Deximus or Hollis the smith)
-- [ ] Surface naming style (🟡 plain and earthy, like Marra, Jory, and Wren)
 - [ ] The hag: who she is, which PC her dolls target, and how she relates to the leader and the demon
 
 ## Worldbuilding

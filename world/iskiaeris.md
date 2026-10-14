@@ -14,4 +14,4 @@
 
 ✅ **Villages** in the rough country are small and walled. A trail leads from the nearest village to a **bigger town**, several days away. ❓ Names.
 
-🔒 GM notes on the village and its cult are in [Session 2](../gm/sessions/session-02/README.md).
+🔒 GM notes on the village and its cult are on [the village page](../gm/places/village.md).
