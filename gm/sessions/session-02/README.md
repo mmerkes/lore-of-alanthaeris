@@ -36,6 +36,7 @@ The party came through the Door into **ruins in a forest** on Iskiaeris. The ses
 
 ## Why the Party Stays a Few Days
 
+- ✅ **The village's quest.** Something appealing that the angels want to take on. See [The Village's Request](../../places/swiftwell.md#the-villages-request-).
 - ✅ **Orshon's information on Reeve** takes time to gather. See [the village page](../../places/swiftwell.md#what-orshon-knows-about-reeve).
 - 🟡 **The trail is held by goblins.** The road to town runs past the goblins' territory, and the villagers won't risk it until a hunting party clears it or a trapper who knows a back way returns.
 - 🟡 **The send-off.** In three days there's a feast to send off the next pilgrim pair, the **twelfth**, and Orshon begs the angels to bless it. He'll hand over the uncle's pages there.

@@ -126,6 +126,49 @@ Everything about the village in one place.
 
 These were considered and set aside: collecting the angels' hair and clippings as relics, breath as holy, fasting and the lightness angle (too grotesque for this table), ruinous generosity, and "angels go home by smoke."
 
+## The Village's Request 🟡
+
+✅ The village asks the angels to take on a **quest**. It should be appealing enough that the PCs *want* to stay for it.
+
+🟡 Whichever quest it is, **Orshon has his own reason for giving it**: it keeps the angels busy and out of the village while he prepares the twelfth pair.
+
+### Option A: The Fallen Star (recommended)
+
+A few weeks ago, **something fell from the sky** and crashed into the hills, a day's walk away. Smoke rose from it for three days, and the village read that as a message. Orshon asks the angels to bring **Alantha's gift** home in time for the send-off feast.
+
+🔒 **It's a piece of Alanthaeris.** It might be a chunk of the Underspire's rock, a broken piece of machinery, or a lost shipment from the Great Chain. Either way, it's hard evidence that the city is shedding.
+
+| PC | Why they want to go |
+|---|---|
+| Meldren | Dwarven fittings and Great Works marks. This could be the Chain's missing cargo. |
+| Reeve | Proof the city is sinking, and maybe a Kallergis levitation stone. |
+| Lexandros | The faithful are asking a priest to recover a holy relic. |
+| Terek and Ryland | Real work, a fight, and a reason to leave a village that's starting to feel wrong |
+
+🟡 Goblins want it too, which gives you a race and a fight on the way.
+
+### Option B: The Goblin Warren
+
+The goblins hold the trail to town. Their warren lies under ruins near the Door. The village asks the angels to drive them out and open the road.
+
+Inside, the goblins have hoarded things that came through the Door over the years. That could include **nonsensical Chain cargo** for Meldren, and **belongings of earlier pilgrims**, perhaps Reeve's uncle's, for Reeve. It's a classic Shadowdark crawl.
+
+### Option C: The Hag
+
+After the clay dolls attack, the village begs the angels to deal with the hag, and Orshon pushes hardest of all.
+
+🔒 If the hag is the one person who knows the truth about the pilgrims, Orshon is aiming the angels at his only threat. This depends on what we decide about her.
+
+### Option D: Reconsecrate the Shrine
+
+An old shrine to Alantha in the woods, older than the village, has been abandoned and defiled. The village asks the angels to bless it, so the twelfth pair can depart from it.
+
+🔒 The pilgrim pairs leave from this shrine, and it sits on the demon's ground. This leads straight toward the secret, possibly too early.
+
+### Recommendation
+
+Make **Option A** the main quest. It gives every PC a personal reason to go and ties into the campaign's biggest mystery. Put **Option B's goblins** between the village and the crash site, and keep the hag as a separate threat.
+
 ## Secrets 🔒
 
 ### The Demon in the Woods
@@ -165,6 +208,7 @@ These were considered and set aside: collecting the angels' hair and clippings a
 - Name of the bigger town
 - The demon: what it is, the bargain, and its lair
 - Which garbled scripture lines to use
+- The village's quest (🟡 the Fallen Star)
 - What Orshon knows about Reeve, and his excuse for the delay
 - Is Deximus in on the demon (🟡 no)?
 - The hag
