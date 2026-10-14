@@ -80,10 +80,10 @@ When a question is resolved, move the answer into the relevant page, log it in t
 
 ## Session 2 🔒
 See [the village page](gm/places/swiftwell.md) and [Session 2](gm/sessions/session-02/README.md) for the proposed options.
-- [ ] Name of the bigger town
+- [ ] Redmere (🟡 proposed): confirm the name, its faith, and who runs it
 - [ ] The demon in the woods: what it is, the bargain, and its lair
 - [ ] Which garbled scripture lines to use
-- [ ] 🔒 The Fallen Star: why the crate fell, what was in it, and who it was for
+- [ ] 🔒 Why did the Chain cargo fall? (Future session)
 - [ ] What Orshon knows about Reeve (🟡 the uncle passed through), and his excuse for the delay
 - [ ] Is Deximus in on the demon (🟡 no)?
 - [ ] Other reasons the party stays: the goblin-held trail, the send-off feast, recovery

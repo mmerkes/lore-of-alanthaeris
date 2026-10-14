@@ -4,6 +4,10 @@
 
 Newest first.
 
+## 2026-10-13 (crash site, the bigger town)
+- The crate's **contents are unknown**: everything is burnt out. The Chain **can't be seen** from the crash site. **Why it fell** is left for a future session.
+- The bigger town gets a name and a little detail. 🟡 **Redmere** is proposed. See [Iskiaeris](world/iskiaeris.md#redmere).
+
 ## 2026-10-13 (the Fallen Star)
 - The village's quest: Orshon asks the angels to recover **"Alantha's gift,"** something that fell from the sky into the hills.
 - 🔒 It's a **missing piece of Great Chain cargo**. **Meldren recognizes the burnt crate** and the goods and packing that came in it.

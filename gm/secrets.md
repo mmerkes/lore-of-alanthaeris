@@ -49,7 +49,7 @@ This is the literal truth behind Aithra's sense that the city is "drifting" and 
 
 ✅ **Something is wrong with it** (from Session 1): expected shipments haven't arrived, and items that make no sense have come up instead. Meldren is sent down, under cover as an ambassador, to find out why. See [Meldren's vignettes](sessions/session-01/meldren.md).
 
-✅ **A missing shipment fell to the surface** (Session 2). It crashed in the hills near Swiftwell, where the villagers think it's a gift from Alantha. Meldren recognizes the burnt crate. See [Swiftwell](places/swiftwell.md#the-villages-request-the-fallen-star).
+✅ **A missing shipment fell to the surface** (Session 2). It crashed in the hills near Swiftwell, where the villagers think it's a gift from Alantha. Meldren recognizes the burnt crate. Its contents are burnt beyond recognition, and the Chain can't be seen from the site. ❓ Why it fell is a question for a future session. See [Swiftwell](places/swiftwell.md#the-villages-request-the-fallen-star).
 
 ✅ **People don't use the Chain.** Everyone descends through the Door. The Chain is best avoided.
 

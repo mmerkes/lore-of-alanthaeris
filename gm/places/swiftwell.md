@@ -9,7 +9,7 @@ Everything about the village in one place.
 ## At a Glance
 
 - ✅ A **small, walled village in rough country**, near the forest ruins where the Door lets out.
-- ✅ A trail leads to a **bigger town, several days' journey** away. ❓ Its name.
+- ✅ A trail leads to **Redmere**, a bigger town several days' journey away. See [Iskiaeris](../../world/iskiaeris.md#redmere).
 - ✅ **No pub.** Villagers volunteer to take the PCs home and put them up in their houses.
 - ✅ Everyone in the village belongs to a **strange sect of Alantha**. They sincerely believe they're good people; their leader has manipulated them.
 - ✅ They believe **anyone from the flying city is an angel sent down by Alantha**.
@@ -143,18 +143,13 @@ These were considered and set aside: collecting the angels' hair and clippings a
 | Lexandros | The faithful are asking a priest to recover a holy relic. |
 | Terek and Ryland | Real work, a fight, and a reason to leave a village that's starting to feel wrong |
 
-### At the Crash Site 🟡
+### At the Crash Site
 
-- **The distance:** a day's walk into the hills, so the trip takes two days or more there and back.
-- **Goblins** have been picking over the wreck, or are racing the party to it. That's the fight on the way.
-- **What's in the crate:** goods sent *up* from the surface, such as **delicacies** an Inner Ring table can't get anywhere else. Most of it is burnt or scattered, but a few pieces survived.
-- **A label or seal** names who the shipment was for: one of the Twelve houses, or the Great Works itself. That gives Meldren a thread to pull.
-- **One thing that doesn't fit.** Among the delicacies is an item that makes no sense, like the nonsense that has been arriving at the top. Somebody is tampering with shipments at the bottom.
-- **Evidence of how it fell:** a **cut** or **burned** strap, or a **snapped** fitting. It's evidence of sabotage, or a sign the Chain is failing.
-
-❓ Why did it fall: sabotage, a failing Chain, or something to do with the sinking?
-❓ What was in it, and who was it for?
-❓ Does this tell Meldren where the bottom of the Chain is? It should be somewhere roughly below the city.
+- ✅ **The contents are unknown.** Everything is burnt out. All that's left is burnt crate pieces and packing, which is enough for Meldren to recognize it.
+- ✅ **The Chain can't be seen** from the hills.
+- ✅ **Why it fell is unknown.** That's a question for a future session.
+- 🟡 **The distance:** a day's walk into the hills, so the trip takes two days or more there and back.
+- 🟡 **Goblins** have been picking over the wreck, or are racing the party to it. That's the fight on the way.
 
 ### Considered and Not Chosen
 
@@ -181,6 +176,10 @@ The goblin warren (the goblins may still appear on the way), the hag as a quest 
 
 **Recommendation:** option 1. It explains the garbled scripture, ties into the host families, and gives Reeve something to snoop for.
 
+### Redmere Has Never Seen the Pilgrims
+
+🟡 The trail out of Swiftwell runs through Redmere, so every pilgrim pair "out seeing the world" should have passed through it. **No one in Redmere has ever met one.** It's a clue for a PC who asks the right person, now or later.
+
 ❓ What does Orshon actually know about where the uncle went, and is the uncle alive?
 
 ## Nearby: The Hag
@@ -196,10 +195,8 @@ The goblin warren (the goblins may still appear on the way), the hag as a quest 
 
 ## Open Questions
 
-- Name of the bigger town
 - The demon: what it is, the bargain, and its lair
 - Which garbled scripture lines to use
-- The Fallen Star: why the crate fell, what was in it, and who it was for
 - What Orshon knows about Reeve, and his excuse for the delay
 - Is Deximus in on the demon (🟡 no)?
 - The hag
