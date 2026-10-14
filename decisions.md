@@ -4,6 +4,15 @@
 
 Newest first.
 
+## 2026-10-13 (Session 2: the surface village)
+- **Session 1 recap:** all vignettes ran. The party came through the Door into **forest ruins** and ended on the sound of bowstrings.
+- **Goblins differ by world.** Alanthaeris's goblins are kind, sweet, and soft-spoken, like house elves. Surface goblins are nasty and murderous.
+- Session 2 opens with an **overwhelming goblin ambush**. **Villagers** with meager weapons arrive and turn the fight.
+- 🔒 The villagers are **cultists of a strange sect of Alantha**. They think they're good and believe **anyone from the flying city is an angel**.
+- 🔒 Their **leader** is an evil priest with a sincere, dopey facade and flashes of danger. He feeds villagers to **a demon in the woods** by sending **pairs** on "pilgrimage."
+- The village is **small and walled, in rough country**, several days by trail from a bigger town. It has **no pub**; villagers each host a PC.
+- To plan: a **hag** whose **clay dolls** tap on a PC's window on the first night and then attack.
+
 ## 2026-09-30 (Terek, cont.)
 - 🔒 **Eudora Vassara** hired Terek to protect Lexandros and performs the healing herself. The sick one is Terek's mentor, **Markin** (age, consumption). Daniel is enthusiastic about the healing-for-obligation hook. The scene is deliberately vague about what Terek agreed to, and Eudora is **unnamed** at the table.
 

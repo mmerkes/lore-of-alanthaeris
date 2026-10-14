@@ -27,6 +27,7 @@
 
 - ✅ **The Great Works:** the central core, home to the **dwarves**, and where the city's machinery is. It's led by the **Master of the Great Works**.
 - ✅ **The Rookery:** the outer area, home to the poor, **goblins**, and criminals. It's named after Victorian slums, and birds nest there too.
+  - ✅ Alanthaeris's **goblins** are kind, sweet, and soft-spoken, a little like house elves.
 
 ## Getting Down
 

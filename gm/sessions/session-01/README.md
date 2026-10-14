@@ -24,4 +24,6 @@ The pilgrims are anointed at the Door. Ryland bursts in mid-ceremony, fleeing hi
 
 ## What Happened
 
-❓ Not recorded yet. Add notes after the session.
+✅ All the planned vignettes were run. Everyone went through the Door and came out in **ruins inside a forest** on Iskiaeris. The session ended when they heard the *thwap* of bowstrings.
+
+Next: [Session 2](../session-02/README.md).
