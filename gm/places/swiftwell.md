@@ -178,7 +178,7 @@ The goblin warren (the goblins may still appear on the way), the hag as a quest 
 
 ### Redmere Has Never Seen the Pilgrims
 
-🟡 The trail out of Swiftwell runs through Redmere, so every pilgrim pair "out seeing the world" should have passed through it. **No one in Redmere has ever met one.** It's a clue for a PC who asks the right person, now or later.
+✅ The trail out of Swiftwell runs through Redmere, so every pilgrim pair "out seeing the world" should have passed through it. **No one in Redmere has ever seen one.** It only comes out **if a PC asks**.
 
 ❓ What does Orshon actually know about where the uncle went, and is the uncle alive?
 
