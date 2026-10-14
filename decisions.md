@@ -4,6 +4,13 @@
 
 Newest first.
 
+## 2026-10-13 (Session 2: Orshon and Deximus)
+- 🔒 The cult leader is **Orshon**. His right-hand man is **Deximus**: skeptical of the PCs, negative, very devout, and too eager to burn things. Deximus takes the captured goblin back for sacrifice.
+- The captured goblin is **burned at the stake**.
+- The cult's scripture is **garbled**: familiar lines with the wrong words.
+- 🔒 **Orshon has information about Reeve**, and an excuse for why it will take time to gather.
+- Passed on for now: relics of the angels, holy breath, fasting (too grotesque), ruinous generosity, and "angels go home by smoke."
+
 ## 2026-10-13 (Session 2: the surface village)
 - **Session 1 recap:** all vignettes ran. The party came through the Door into **forest ruins** and ended on the sound of bowstrings.
 - **Goblins differ by world.** Alanthaeris's goblins are kind, sweet, and soft-spoken, like house elves. Surface goblins are nasty and murderous.

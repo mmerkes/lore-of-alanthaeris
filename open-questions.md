@@ -80,13 +80,14 @@ When a question is resolved, move the answer into the relevant page, log it in t
 
 ## Session 2 🔒
 See [Session 2](gm/sessions/session-02/README.md) for the proposed options.
-- [ ] Names: the village, the bigger town, and the cult leader
+- [ ] Names: the village and the bigger town
 - [ ] The demon in the woods: what it is, the bargain, and its lair
-- [ ] Is smoke communion the cult's signature (🟡 proposed), and which other uncomfortable differences to use?
-- [ ] Why the party stays in the village for a few days
+- [ ] Which garbled scripture lines to use
+- [ ] What Orshon knows about Reeve (🟡 the uncle passed through), and his excuse for the delay
+- [ ] Is Deximus in on the demon (🟡 no)?
+- [ ] Other reasons the party stays: the goblin-held trail, the send-off feast, recovery
 - [ ] Which host family takes which PC
 - [ ] The hag: who she is, which PC her dolls target, and how she relates to the leader and the demon
-- [ ] Where did the cult's garbled scripture come from? An earlier pilgrim?
 
 ## Worldbuilding
 - [ ] Naming palette: the houses established a strong **Greek** flavor. Adopt that as the rule for Alanthan names?
