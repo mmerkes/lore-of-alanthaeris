@@ -80,7 +80,7 @@ When a question is resolved, move the answer into the relevant page, log it in t
 
 ## Session 2 🔒
 See [the village page](gm/places/swiftwell.md) and [Session 2](gm/sessions/session-02/README.md) for the proposed options.
-- [ ] Redmere (🟡 proposed): confirm the name, its faith, and who runs it
+- [ ] Who runs Redmere?
 - [ ] The demon in the woods: what it is, the bargain, and its lair
 - [ ] Which garbled scripture lines to use
 - [ ] 🔒 Why did the Chain cargo fall? (Future session)

@@ -4,6 +4,9 @@
 
 Newest first.
 
+## 2026-10-13 (Redmere)
+- The bigger town is **Redmere**. It **isn't very pious**.
+
 ## 2026-10-13 (crash site, the bigger town)
 - The crate's **contents are unknown**: everything is burnt out. The Chain **can't be seen** from the crash site. **Why it fell** is left for a future session.
 - The bigger town gets a name and a little detail. 🟡 **Redmere** is proposed. See [Iskiaeris](world/iskiaeris.md#redmere).
