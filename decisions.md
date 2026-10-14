@@ -4,6 +4,10 @@
 
 Newest first.
 
+## 2026-10-13 (the Fallen Star)
+- The village's quest: Orshon asks the angels to recover **"Alantha's gift,"** something that fell from the sky into the hills.
+- 🔒 It's a **missing piece of Great Chain cargo**. **Meldren recognizes the burnt crate** and the goods and packing that came in it.
+
 ## 2026-10-13 (village name)
 - The cult village is named **Swiftwell**, after the White Swift.
 

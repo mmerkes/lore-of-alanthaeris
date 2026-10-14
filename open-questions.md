@@ -83,7 +83,7 @@ See [the village page](gm/places/swiftwell.md) and [Session 2](gm/sessions/sessi
 - [ ] Name of the bigger town
 - [ ] The demon in the woods: what it is, the bargain, and its lair
 - [ ] Which garbled scripture lines to use
-- [ ] The village's quest for the angels (🟡 the Fallen Star: a piece of Alanthaeris crashed in the hills)
+- [ ] 🔒 The Fallen Star: why the crate fell, what was in it, and who it was for
 - [ ] What Orshon knows about Reeve (🟡 the uncle passed through), and his excuse for the delay
 - [ ] Is Deximus in on the demon (🟡 no)?
 - [ ] Other reasons the party stays: the goblin-held trail, the send-off feast, recovery

@@ -126,48 +126,39 @@ Everything about the village in one place.
 
 These were considered and set aside: collecting the angels' hair and clippings as relics, breath as holy, fasting and the lightness angle (too grotesque for this table), ruinous generosity, and "angels go home by smoke."
 
-## The Village's Request 🟡
+## The Village's Request: The Fallen Star
 
-✅ The village asks the angels to take on a **quest**. It should be appealing enough that the PCs *want* to stay for it.
+✅ The village asks the angels to take on a quest that's appealing enough to make them *want* to stay.
 
-🟡 Whichever quest it is, **Orshon has his own reason for giving it**: it keeps the angels busy and out of the village while he prepares the twelfth pair.
+✅ **The quest:** a few weeks ago, **something fell from the sky** and crashed into the hills. Smoke rose from it for days, and the village read that as a message. Orshon asks the angels to bring **Alantha's gift** home in time for the send-off feast.
 
-### Option A: The Fallen Star (recommended)
+✅ 🔒 **It's a missing piece of Great Chain cargo.** **Meldren recognizes the burnt-out pieces of the crate**, and the goods and packing that came in it. It's one of the shipments that never arrived.
 
-A few weeks ago, **something fell from the sky** and crashed into the hills, a day's walk away. Smoke rose from it for three days, and the village read that as a message. Orshon asks the angels to bring **Alantha's gift** home in time for the send-off feast.
-
-🔒 **It's a piece of Alanthaeris.** It might be a chunk of the Underspire's rock, a broken piece of machinery, or a lost shipment from the Great Chain. Either way, it's hard evidence that the city is shedding.
+🟡 Orshon has his own reason for asking: it keeps the angels busy and out of the village while he prepares the twelfth pair.
 
 | PC | Why they want to go |
 |---|---|
-| Meldren | Dwarven fittings and Great Works marks. This could be the Chain's missing cargo. |
-| Reeve | Proof the city is sinking, and maybe a Kallergis levitation stone. |
+| Meldren | The burnt crate is from the missing shipments. This is his mission, handed to him on day one. |
+| Reeve | A crate that fell from the city fits what he knows about its decline. |
 | Lexandros | The faithful are asking a priest to recover a holy relic. |
 | Terek and Ryland | Real work, a fight, and a reason to leave a village that's starting to feel wrong |
 
-🟡 Goblins want it too, which gives you a race and a fight on the way.
+### At the Crash Site 🟡
 
-### Option B: The Goblin Warren
+- **The distance:** a day's walk into the hills, so the trip takes two days or more there and back.
+- **Goblins** have been picking over the wreck, or are racing the party to it. That's the fight on the way.
+- **What's in the crate:** goods sent *up* from the surface, such as **delicacies** an Inner Ring table can't get anywhere else. Most of it is burnt or scattered, but a few pieces survived.
+- **A label or seal** names who the shipment was for: one of the Twelve houses, or the Great Works itself. That gives Meldren a thread to pull.
+- **One thing that doesn't fit.** Among the delicacies is an item that makes no sense, like the nonsense that has been arriving at the top. Somebody is tampering with shipments at the bottom.
+- **Evidence of how it fell:** a **cut** or **burned** strap, or a **snapped** fitting. It's evidence of sabotage, or a sign the Chain is failing.
 
-The goblins hold the trail to town. Their warren lies under ruins near the Door. The village asks the angels to drive them out and open the road.
+❓ Why did it fall: sabotage, a failing Chain, or something to do with the sinking?
+❓ What was in it, and who was it for?
+❓ Does this tell Meldren where the bottom of the Chain is? It should be somewhere roughly below the city.
 
-Inside, the goblins have hoarded things that came through the Door over the years. That could include **nonsensical Chain cargo** for Meldren, and **belongings of earlier pilgrims**, perhaps Reeve's uncle's, for Reeve. It's a classic Shadowdark crawl.
+### Considered and Not Chosen
 
-### Option C: The Hag
-
-After the clay dolls attack, the village begs the angels to deal with the hag, and Orshon pushes hardest of all.
-
-🔒 If the hag is the one person who knows the truth about the pilgrims, Orshon is aiming the angels at his only threat. This depends on what we decide about her.
-
-### Option D: Reconsecrate the Shrine
-
-An old shrine to Alantha in the woods, older than the village, has been abandoned and defiled. The village asks the angels to bless it, so the twelfth pair can depart from it.
-
-🔒 The pilgrim pairs leave from this shrine, and it sits on the demon's ground. This leads straight toward the secret, possibly too early.
-
-### Recommendation
-
-Make **Option A** the main quest. It gives every PC a personal reason to go and ties into the campaign's biggest mystery. Put **Option B's goblins** between the village and the crash site, and keep the hag as a separate threat.
+The goblin warren (the goblins may still appear on the way), the hag as a quest target, and reconsecrating a shrine on the demon's ground.
 
 ## Secrets 🔒
 
@@ -208,7 +199,7 @@ Make **Option A** the main quest. It gives every PC a personal reason to go and 
 - Name of the bigger town
 - The demon: what it is, the bargain, and its lair
 - Which garbled scripture lines to use
-- The village's quest (🟡 the Fallen Star)
+- The Fallen Star: why the crate fell, what was in it, and who it was for
 - What Orshon knows about Reeve, and his excuse for the delay
 - Is Deximus in on the demon (🟡 no)?
 - The hag
