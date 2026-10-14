@@ -1,8 +1,10 @@
-# 🔒 The Village of Smoke
+# 🔒 Swiftwell
 
 [← Home](../../README.md) · [Iskiaeris](../../world/iskiaeris.md) · [Session 2](../sessions/session-02/README.md)
 
-Everything about the village in one place. ❓ The village still needs a real name. "The Village of Smoke" is a working title.
+Everything about the village in one place.
+
+✅ **Swiftwell** is named for the White Swift, Alantha's bird.
 
 ## At a Glance
 
@@ -160,7 +162,7 @@ These were considered and set aside: collecting the angels' hair and clippings a
 
 ## Open Questions
 
-- Names of the village and the bigger town
+- Name of the bigger town
 - The demon: what it is, the bargain, and its lair
 - Which garbled scripture lines to use
 - What Orshon knows about Reeve, and his excuse for the delay

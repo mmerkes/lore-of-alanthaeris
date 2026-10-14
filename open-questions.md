@@ -79,8 +79,8 @@ When a question is resolved, move the answer into the relevant page, log it in t
 - [ ] 🔒 Who knows the city is sinking: all the Twelve? Aithra? The Wardens?
 
 ## Session 2 🔒
-See [the village page](gm/places/village.md) and [Session 2](gm/sessions/session-02/README.md) for the proposed options.
-- [ ] Names: the village and the bigger town
+See [the village page](gm/places/swiftwell.md) and [Session 2](gm/sessions/session-02/README.md) for the proposed options.
+- [ ] Name of the bigger town
 - [ ] The demon in the woods: what it is, the bargain, and its lair
 - [ ] Which garbled scripture lines to use
 - [ ] What Orshon knows about Reeve (🟡 the uncle passed through), and his excuse for the delay

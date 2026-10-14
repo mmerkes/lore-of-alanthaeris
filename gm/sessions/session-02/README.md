@@ -1,8 +1,8 @@
-# 🔒 Session 2: The Village of Smoke
+# 🔒 Session 2: Swiftwell
 
-[← Home](../../../README.md) · [The Party](../../party.md) · [Session 1](../session-01/README.md) · **[The Village](../../places/village.md)**
+[← Home](../../../README.md) · [The Party](../../party.md) · [Session 1](../session-01/README.md) · **[The Village](../../places/swiftwell.md)**
 
-Everything about the village, its people, beliefs, and secrets is on [the village page](../../places/village.md). This page is the session's running order.
+Everything about the village, its people, beliefs, and secrets is on [the village page](../../places/swiftwell.md). This page is the session's running order.
 
 ## Where We Left Off
 
@@ -15,7 +15,7 @@ The party came through the Door into **ruins in a forest** on Iskiaeris. The ses
 3. **Welcome.** The villagers greet the party warmly as angels, and take them home to the village. Deximus drags a captured goblin along.
 4. **The stake.** The goblin is burned in the square.
 5. **Lodging.** Villagers take the PCs into their homes. Matt assigns the hosts.
-6. **First night:** the hag's clay dolls. See [The Hag](../../places/village.md#nearby-the-hag).
+6. **First night:** the hag's clay dolls. See [The Hag](../../places/swiftwell.md#nearby-the-hag).
 7. **The following days.** The cult's strangeness surfaces bit by bit, building toward the send-off feast.
 
 ## Scene 1: Goblin Ambush
@@ -36,7 +36,7 @@ The party came through the Door into **ruins in a forest** on Iskiaeris. The ses
 
 ## Why the Party Stays a Few Days
 
-- ✅ **Orshon's information on Reeve** takes time to gather. See [the village page](../../places/village.md#what-orshon-knows-about-reeve).
+- ✅ **Orshon's information on Reeve** takes time to gather. See [the village page](../../places/swiftwell.md#what-orshon-knows-about-reeve).
 - 🟡 **The trail is held by goblins.** The road to town runs past the goblins' territory, and the villagers won't risk it until a hunting party clears it or a trapper who knows a back way returns.
 - 🟡 **The send-off.** In three days there's a feast to send off the next pilgrim pair, the **twelfth**, and Orshon begs the angels to bless it. He'll hand over the uncle's pages there.
 - 🟡 **Recovery.** The party is battered and short on gear (Terek arrived under-equipped). Hollis the smith needs a few days.
@@ -44,4 +44,4 @@ The party came through the Door into **ruins in a forest** on Iskiaeris. The ses
 ## Open Questions for Session 2
 
 - How many days the session covers, and what happens on each day
-- See also the [village page's open questions](../../places/village.md#open-questions)
+- See also the [village page's open questions](../../places/swiftwell.md#open-questions)

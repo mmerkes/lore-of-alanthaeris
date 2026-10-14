@@ -12,6 +12,6 @@
 
 ✅ **Goblins** on the surface are vicious and want to kill outsiders. They're nothing like the gentle goblins of the Rookery.
 
-✅ **Villages** in the rough country are small and walled. A trail leads from the nearest village to a **bigger town**, several days away. ❓ Names.
+✅ **Swiftwell**, the village nearest the Door, is small and walled, in rough country. A trail leads to a **bigger town**, several days away. ❓ The town's name.
 
-🔒 GM notes on the village and its cult are on [the village page](../gm/places/village.md).
+🔒 GM notes on the village and its cult are on [the village page](../gm/places/swiftwell.md).
